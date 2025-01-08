@@ -1,0 +1,20 @@
+{
+  "name": "pantry-backend-system",
+  "version": "1.0.0",
+  "description": "Hospital pantry system for food ",
+  "homepage": "https://github.com/AmitKumarr2024/Hospital-pantry-manage-System#readme",
+  "bugs": {
+    "url": "https://github.com/AmitKumarr2024/Hospital-pantry-manage-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitKumarr2024/Hospital-pantry-manage-System.git"
+  },
+  "license": "ISC",
+  "author": "Amit kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
