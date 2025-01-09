@@ -1,5 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
+import cors from 'cors';
 import MongoDatabase from "./config/Mongodb.js";
 import UserRouter from "./routes/userRoutes.js";
 import PantryRouter from "./routes/pantryRoutes.js";
@@ -16,6 +17,14 @@ const port = process.env.PORT || 8002;
 
 app.use(express.json());
 app.use(cookieParser());
+
+app.use(
+  cors({
+    origin: "http://localhost:5173",
+    methods: ["GET", "POST", "DELETE", "PATCH"],
+    credentials: true, // Allow credentials to be sent
+  })
+);
 
 app.use("/api/users", UserRouter);
 app.use("/api/pantry-item", PantryRouter);
