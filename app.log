@@ -1,0 +1,43 @@
+2025-01-09T11:08:58.861Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:10:44.969Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:13:27.696Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:16:01.715Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:16:07.352Z [31merror[39m: Error reading log file
+2025-01-09T11:16:57.687Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:17:00.166Z [31merror[39m: Error reading log file at path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:18:08.528Z [31merror[39m: Error reading log file at path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:18:58.486Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:19:01.589Z [31merror[39m: Error reading log file at path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:20:24.538Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:21:17.901Z [32minfo[39m: Application has started. Verifying log file creation.
+2025-01-09T11:21:17.909Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:21:27.202Z [32minfo[39m: Attempting to read log file from path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:21:27.204Z [31merror[39m: Log file does not exist at path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:24:31.173Z [32minfo[39m: Application has started. This is a test log entry to verify logging.
+2025-01-09T11:24:31.178Z [32minfo[39m: Log file should be located at: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:24:31.182Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:24:32.731Z [32minfo[39m: Attempting to read log file from path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:24:32.732Z [31merror[39m: Log file does not exist at path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:26:31.943Z [32minfo[39m: Application has started. This is a test log entry to verify logging.
+2025-01-09T11:26:31.947Z [32minfo[39m: Log file should be located at: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:26:31.952Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:26:37.634Z [32minfo[39m: Attempting to read log file from path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:26:37.636Z [31merror[39m: Log file does not exist at path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log. Error: ENOENT: no such file or directory, access 'D:\Amit\internship\Hospital Food pantry system\Project\server\app.log'
+2025-01-09T11:27:24.074Z [32minfo[39m: Application has started. This is a test log entry to verify logging.
+2025-01-09T11:27:24.078Z [32minfo[39m: Log file should be located at: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:27:24.081Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:27:24.733Z [32minfo[39m: Attempting to read log file from path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:27:24.737Z [31merror[39m: Log file does not exist at path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log. Error: ENOENT: no such file or directory, access 'D:\Amit\internship\Hospital Food pantry system\Project\server\app.log'
+2025-01-09T11:28:24.151Z [32minfo[39m: Application has started. This is a test log entry to verify logging.
+2025-01-09T11:28:24.157Z [32minfo[39m: Log file should be located at: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:28:24.158Z [32minfo[39m: __dirname: D:\Amit\internship\Hospital Food pantry system\Project\server
+2025-01-09T11:28:24.159Z [32minfo[39m: __filename: D:\Amit\internship\Hospital Food pantry system\Project\server\index.js
+2025-01-09T11:28:24.168Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:28:41.999Z [32minfo[39m: Attempting to read log file from path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:28:42.001Z [31merror[39m: Log file does not exist at path: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log. Error: ENOENT: no such file or directory, access 'D:\Amit\internship\Hospital Food pantry system\Project\server\app.log'
+2025-01-09T11:28:51.668Z [32minfo[39m: Application has started. This is a test log entry to verify logging.
+2025-01-09T11:28:51.671Z [32minfo[39m: Log file should be located at: D:\Amit\internship\Hospital Food pantry system\Project\server\app.log
+2025-01-09T11:28:51.672Z [32minfo[39m: __dirname: D:\Amit\internship\Hospital Food pantry system\Project\server
+2025-01-09T11:28:51.672Z [32minfo[39m: __filename: D:\Amit\internship\Hospital Food pantry system\Project\server\index.js
+2025-01-09T11:28:51.676Z [32minfo[39m: Server started at port: 6002
+2025-01-09T11:30:58.896Z [32minfo[39m: Server started at port: 6002
