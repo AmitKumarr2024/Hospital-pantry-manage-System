@@ -89,7 +89,8 @@ export const updateDeliveryStatus = async (req, res) => {
     const { id } = req.params;
     logger.debug("Received request to update delivery status for id:", id);
 
-    const { deliveryPerson, status, deliveryTime } = req.body;
+    const { deliveryPerson, status, deliveryTime, roomDetails, notes } =
+      req.body;
     logger.debug("Update data received:", req.body);
 
     // Find the delivery record
@@ -108,6 +109,8 @@ export const updateDeliveryStatus = async (req, res) => {
     delivery.deliveryPerson = deliveryPerson || delivery.deliveryPerson;
     delivery.status = status || delivery.status;
     delivery.deliveryTime = deliveryTime || delivery.deliveryTime;
+    delivery.roomDetails = roomDetails || delivery.roomDetails;
+    delivery.notes = notes || delivery.notes;
 
     await delivery.save();
     logger.debug("Delivery status updated successfully:", delivery);
