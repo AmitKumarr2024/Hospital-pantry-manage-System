@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import useLogin from "../hooks/user/useLogin ";
+import useLogin from "../hooks/user/useLogin";
 
 const Login = () => {
   const { login, isLoading, error } = useLogin();
