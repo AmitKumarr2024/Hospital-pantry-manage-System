@@ -10,14 +10,17 @@ const useUpdatePantryItem = (itemId) => {
     setError(null);
 
     try {
-      const response = await fetch(`http://localhost:6002/api/pantry-item/update-item/${itemId}`, {
-        method: "PUT",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${localStorage.getItem("token")}`, // Add token if needed
-        },
-        body: JSON.stringify(updatedData),
-      });
+      const response = await fetch(
+        `http://localhost:6002/api/pantry-item/update-item/${itemId}`,
+        {
+          method: "PUT",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: `Bearer ${localStorage.getItem("token")}`, // Add token if needed
+          },
+          body: JSON.stringify(updatedData),
+        }
+      );
 
       if (!response.ok) {
         const responseData = await response.json();
@@ -25,7 +28,9 @@ const useUpdatePantryItem = (itemId) => {
       }
 
       const responseData = await response.json();
-      setUpdatedItem(responseData);
+      console.log("responseData", responseData.data);
+
+      setUpdatedItem(responseData.data);
     } catch (err) {
       console.error("Error updating pantry item:", err.message);
       setError(err.message);

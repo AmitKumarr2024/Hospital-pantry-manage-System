@@ -27,6 +27,7 @@ const useSingleUser = (userId) => {
         if (!response.ok) {
           throw new Error(data.message || "Failed to fetch user details");
         }
+        console.log("signle user", data.data);
 
         setUser(data);
       } catch (err) {

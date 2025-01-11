@@ -4,6 +4,8 @@ const useSignup = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
 
+
+
   const signup = async (email, password, role) => {
     setIsLoading(true);
     setError(null); // Clear any previous errors
@@ -25,6 +27,7 @@ const useSignup = () => {
 
       // Return success data or handle further processing
       console.log("signup", data);
+
       return data;
     } catch (err) {
       console.error("Signup error:", err.message);

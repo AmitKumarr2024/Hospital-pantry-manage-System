@@ -1,6 +1,8 @@
 import { useState } from "react";
 
 const useUpdatePatient = (patientId) => {
+  console.log("patient",patientId);
+  
   const [patient, setPatient] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -25,6 +27,8 @@ const useUpdatePatient = (patientId) => {
       }
 
       const responseData = await response.json();
+      console.log("responseData",responseData);
+      
       setPatient(responseData.patient);
       return responseData.message; // Return success message
     } catch (err) {

@@ -22,11 +22,9 @@ const useLogin = () => {
       if (!response.ok) {
         throw new Error(data.message || "Login failed");
       }
-
       // Handle login success (e.g., store token or user data in localStorage)
-      localStorage.setItem("token", data.token);
-      localStorage.setItem("user", JSON.stringify(data.user));
-      console.log("Login:", data);
+      localStorage.setItem("token", data.data);
+      localStorage.setItem("user", JSON.stringify(data.data));
 
       return data;
     } catch (err) {
