@@ -11,7 +11,7 @@ const useCreateFoodChart = () => {
     setMessage(null);
 
     try {
-      const response = await fetch("http://localhost:6002/api/foodChart/create-food-chart", {
+      const response = await fetch("/api/foodChart/create-food-chart", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

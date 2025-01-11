@@ -11,7 +11,7 @@ const useAllFoodCharts = () => {
       setError(null);
 
       try {
-        const response = await fetch("http://localhost:6002/api/foodChart/all-food-charts", {
+        const response = await fetch("/api/foodChart/all-food-charts", {
           method: "GET",
           headers: {
             "Content-Type": "application/json",

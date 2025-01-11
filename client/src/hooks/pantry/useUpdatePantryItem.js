@@ -11,7 +11,7 @@ const useUpdatePantryItem = (itemId) => {
 
     try {
       const response = await fetch(
-        `http://localhost:6002/api/pantry-item/update-item/${itemId}`,
+        `/api/pantry-item/update-item/${itemId}`,
         {
           method: "PUT",
           headers: {

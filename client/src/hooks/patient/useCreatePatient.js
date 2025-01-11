@@ -13,7 +13,7 @@ const useCreatePatient = () => {
 
     try {
       const response = await fetch(
-        "http://localhost:6002/api/patient/create-patient",
+        "/api/patient/create-patient",
         {
           method: "POST",
           headers: {

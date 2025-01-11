@@ -12,7 +12,7 @@ const useUpdatePatient = (patientId) => {
     setError(null);
 
     try {
-      const response = await fetch(`http://localhost:6002/api/patient/update-patient/${patientId}`, {
+      const response = await fetch(`/api/patient/update-patient/${patientId}`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",

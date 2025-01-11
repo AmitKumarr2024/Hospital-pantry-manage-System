@@ -11,7 +11,7 @@ const useLogout = () => {
     setIsSuccess(false);
 
     try {
-      const response = await fetch("http://localhost:6002/api/users/logout", {
+      const response = await fetch("/api/users/logout", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

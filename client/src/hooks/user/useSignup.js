@@ -11,7 +11,7 @@ const useSignup = () => {
     setError(null); // Clear any previous errors
 
     try {
-      const response = await fetch("http://localhost:6002/api/users/signup", {
+      const response = await fetch("/api/users/signup", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

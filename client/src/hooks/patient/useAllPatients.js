@@ -10,7 +10,7 @@ const useAllPatients = () => {
     setError(null);
 
     try {
-      const response = await fetch("http://localhost:6002/api/patient/all-patients", {
+      const response = await fetch("/api/patient/all-patients", {
         method: "GET",
         headers: {
           "Content-Type": "application/json",

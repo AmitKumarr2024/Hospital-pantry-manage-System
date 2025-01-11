@@ -10,7 +10,7 @@ const useLogin = () => {
     setError(null); // Clear any previous errors
 
     try {
-      const response = await fetch("http://localhost:6002/api/users/login", {
+      const response = await fetch("/api/users/login", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

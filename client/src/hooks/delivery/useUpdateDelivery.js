@@ -12,7 +12,7 @@ const useUpdateDelivery = () => {
     setSuccessMessage("");
 
     try {
-      const response = await fetch(`http://localhost:6002/api/delivery/update-delivery/${deliveryId}`, {
+      const response = await fetch(`/api/delivery/update-delivery/${deliveryId}`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",

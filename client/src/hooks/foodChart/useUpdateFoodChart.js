@@ -11,7 +11,7 @@ const useUpdateFoodChart = (foodChartId) => {
     setMessage(null);
 
     try {
-      const response = await fetch(`http://localhost:6002/api/foodChart/update-food-chart/${foodChartId}`, {
+      const response = await fetch(`/api/foodChart/update-food-chart/${foodChartId}`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",

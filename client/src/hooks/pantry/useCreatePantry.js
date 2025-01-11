@@ -10,7 +10,7 @@ const usePantry = () => {
     setError(null);
 
     try {
-      const response = await fetch("http://localhost:6002/api/pantry-item/addItem", {
+      const response = await fetch("/api/pantry-item/addItem", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

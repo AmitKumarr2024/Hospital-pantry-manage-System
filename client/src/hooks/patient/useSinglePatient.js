@@ -10,7 +10,7 @@ const useSinglePatient = (patientId) => {
     setError(null);
 
     try {
-      const response = await fetch(`http://localhost:6002/api/patient/single-patient/${patientId}`, {
+      const response = await fetch(`/api/patient/single-patient/${patientId}`, {
         method: "GET",
         headers: {
           "Content-Type": "application/json",

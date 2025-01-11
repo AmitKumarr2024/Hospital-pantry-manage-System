@@ -11,7 +11,7 @@ const useViewAllDeliveries = () => {
     setError(null);
 
     try {
-      const response = await fetch("http://localhost:6002/api/delivery/get-All-Delivery", {
+      const response = await fetch("/api/delivery/get-All-Delivery", {
         method: "GET",
         headers: {
           "Content-Type": "application/json",

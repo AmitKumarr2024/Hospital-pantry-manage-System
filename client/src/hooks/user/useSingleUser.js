@@ -12,7 +12,7 @@ const useSingleUser = (userId) => {
 
       try {
         const response = await fetch(
-          `http://localhost:6002/api/users/singleUser?id=${userId}`, // Pass the userId as a query param
+          `/api/users/singleUser?id=${userId}`, // Pass the userId as a query param
           {
             method: "GET",
             headers: {

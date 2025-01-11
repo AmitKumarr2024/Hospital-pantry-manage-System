@@ -11,7 +11,7 @@ const useAllPantryItems = () => {
 
     try {
       const response = await fetch(
-        "http://localhost:6002/api/pantry-item/all-pantry-item",
+        "/api/pantry-item/all-pantry-item",
         {
           method: "GET",
           headers: {

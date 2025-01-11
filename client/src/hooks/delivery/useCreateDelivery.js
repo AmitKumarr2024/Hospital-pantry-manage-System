@@ -10,7 +10,7 @@ const useCreateDelivery = () => {
     setError(null);
 
     try {
-      const response = await fetch("http://localhost:6002/api/delivery/create-delivery", {
+      const response = await fetch("/api/delivery/create-delivery", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
