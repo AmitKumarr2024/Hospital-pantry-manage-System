@@ -1,3 +1,4 @@
+import path from "path";
 import express from "express";
 import dotenv from "dotenv";
 import cors from "cors";
@@ -20,6 +21,8 @@ const port = process.env.PORT || 8002;
 app.use(express.json());
 app.use(cookieParser());
 
+const __dirname = path.resolve();
+
 // CORS setup
 app.use(
   cors({
@@ -28,6 +31,8 @@ app.use(
     credentials: true,
   })
 );
+
+app.use(express.static(path.join(__dirname, "client/dist")));
 
 // Routes
 app.use("/api/users", UserRouter);
