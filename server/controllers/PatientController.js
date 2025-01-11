@@ -11,7 +11,7 @@ const createDefaultDietChart = async () => {
   });
   await defaultDietChart.save();
   logger.info("Default diet chart created:", defaultDietChart);
-  return defaultDietChart._id;
+  return defaultDietChart._id; // Return the ID after saving
 };
 
 export const createPatient = async (req, res) => {
@@ -35,10 +35,10 @@ export const createPatient = async (req, res) => {
     if (!dietChart) {
       logger.info("Diet Chart not found, creating default diet chart");
       // Create a default diet chart if none exists
-      dietChartId = await createDefaultDietChart();
+      dietChartId = await createDefaultDietChart(); // This will assign the newly created diet chart ID
     }
 
-    // Create a new patient entry
+    // Now that we have a valid dietChartId, create a new patient entry
     const newPatient = new Patient({
       name,
       age,
@@ -48,7 +48,7 @@ export const createPatient = async (req, res) => {
       allergies,
       disease,
       room,
-      dietChart: dietChartId,
+      dietChart: dietChartId, // Use the dietChartId (which is valid now)
     });
 
     await newPatient.save();
