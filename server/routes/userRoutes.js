@@ -11,7 +11,7 @@ const user = express.Router();
 
 user.post("/signup", signup); // User sign up
 user.post("/login", login); // User log in
-user.get("/singleUser", jwtAuth, singleUser); // Get single user details
-user.post("/logout", jwtAuth, logout); // User log out
+user.get("/singleUser/:id",jwtAuth, singleUser); // Get single user details
+user.post("/logout", logout); // User log out
 
 export default user;

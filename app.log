@@ -58,3 +58,2443 @@
 2025-01-09T17:16:29.837Z [32minfo[39m: Server started at port: 6002
 2025-01-09T17:53:15.234Z [32minfo[39m: Server started at port: 6002
 2025-01-09T17:53:22.162Z [32minfo[39m: Server started at port: 6002
+2025-01-09T17:56:29.740Z [32minfo[39m: Server started at port: 6002
+2025-01-09T17:59:00.549Z [32minfo[39m: Server started at port: 6002
+2025-01-09T17:59:24.286Z [32minfo[39m: Server started at port: 6002
+2025-01-09T17:59:59.039Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:00:05.372Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:00:12.686Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:00:17.748Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:00:37.069Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:02:41.924Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:02:47.422Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:02:51.062Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:02:54.160Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:00.625Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:03.267Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:05.883Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:08.817Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:11.257Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:14.899Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:18.475Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:21.417Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:24.124Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:26.845Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:35.793Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:38.711Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:46.545Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:49.553Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:03:51.949Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:05:06.651Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:05:09.103Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:05:12.164Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:05:14.967Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:05:18.551Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:09:58.381Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:10:13.872Z [32minfo[39m: Server started at port: 6002
+2025-01-09T18:10:18.369Z [32minfo[39m: Server started at port: 6002
+2025-01-10T08:06:32.350Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:28:42.368Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:28:44.383Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:29:32.657Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:29:36.071Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:29:46.438Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:30:24.153Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:30:44.653Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:31:01.601Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:32:23.927Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:35:06.319Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:35:14.089Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:35:32.524Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:35:38.113Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:36:26.128Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:36:35.931Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:36:44.901Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:36:54.979Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:37:37.282Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:37:49.003Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:37:54.549Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:37:57.634Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:38:09.668Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:38:13.134Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:38:32.533Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:42:11.317Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:42:33.566Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:42:52.722Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:43:14.890Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:43:19.978Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:44:01.293Z [32minfo[39m: Server started at port: 6002
+2025-01-10T09:44:43.429Z [32minfo[39m: Server started at port: 6002
+2025-01-10T10:32:05.008Z [32minfo[39m: Server started at port: 6002
+2025-01-10T10:40:46.932Z [32minfo[39m: Server started at port: 6002
+2025-01-10T10:51:24.932Z [32minfo[39m: Server started at port: 6002
+2025-01-10T10:57:15.007Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:00:29.959Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:00:51.402Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:03:33.995Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:03:49.269Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:05:54.934Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:06:11.371Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:13:03.641Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:13:09.752Z [32minfo[39m: Login successful
+2025-01-10T11:13:41.159Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:14:41.113Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:15:46.852Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:17:22.083Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:18:15.469Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:19:07.131Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:19:12.431Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:20:01.531Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:20:57.104Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:21:20.961Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-10T11:21:21.062Z [32minfo[39m: Login successful
+2025-01-10T11:22:19.120Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-10T11:22:19.236Z [32minfo[39m: Login successful
+2025-01-10T11:23:06.327Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:23:31.454Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:23:32.772Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-10T11:23:32.881Z [32minfo[39m: Login successful
+2025-01-10T11:23:59.389Z [32minfo[39m: Server started at port: 6002
+2025-01-10T11:31:24.825Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-10T11:31:25.028Z [32minfo[39m: Login successful
+2025-01-10T11:31:45.355Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-10T11:31:45.456Z [32minfo[39m: Login successful
+2025-01-10T11:32:03.751Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-10T11:32:03.853Z [32minfo[39m: Login successful
+2025-01-10T11:32:20.895Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-10T11:32:20.998Z [32minfo[39m: Login successful
+2025-01-10T11:32:36.191Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-10T11:32:36.290Z [32minfo[39m: Login successful
+2025-01-10T11:33:19.607Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-10T11:33:19.706Z [32minfo[39m: Login successful
+2025-01-10T11:43:35.468Z [32minfo[39m: Received login request with email: hospital_pantry@xyz.com
+2025-01-10T11:44:05.479Z [31merror[39m: Error in login controller
+2025-01-10T12:00:35.864Z [32minfo[39m: Server started at port: 6002
+2025-01-10T12:31:03.608Z [32minfo[39m: Server started at port: 6002
+2025-01-10T12:34:15.584Z [32minfo[39m: Received login request with email: hospital_pantry@xyz.com
+2025-01-10T12:34:16.059Z [32minfo[39m: Login successful
+2025-01-10T12:35:24.705Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-10T12:35:24.808Z [32minfo[39m: Login successful
+2025-01-10T12:35:55.816Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:35:55.947Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:35:55.950Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:35:56.092Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:35:59.913Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T12:35:59.960Z [32minfo[39m: Patient not found with id:
+2025-01-10T12:35:59.962Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T12:36:00.004Z [32minfo[39m: Patient not found with id:
+2025-01-10T12:36:07.529Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T12:36:07.573Z [32minfo[39m: Patient not found with id:
+2025-01-10T12:36:07.575Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T12:36:07.618Z [32minfo[39m: Patient not found with id:
+2025-01-10T12:36:12.095Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:36:12.242Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:36:12.244Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:36:12.331Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:42:57.155Z [32minfo[39m: Server started at port: 6002
+2025-01-10T12:47:58.098Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:47:58.183Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:47:58.188Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:47:58.258Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:02.608Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:02.681Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:02.683Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:02.752Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:03.179Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:03.251Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:03.253Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:03.325Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:03.364Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:03.438Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:03.440Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:03.516Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:03.539Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:03.613Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:03.615Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:03.692Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:03.698Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:03.764Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:03.766Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:03.842Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:04.268Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:04.340Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:04.342Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:04.412Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:05.031Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:05.101Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:05.104Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:05.173Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:26.077Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:26.243Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:51.037Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:51.140Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:48:51.143Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:48:51.251Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:49:26.079Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:49:26.150Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:50:09.453Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:50:09.526Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:50:09.528Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:50:09.596Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:51:21.510Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:51:21.582Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:51:21.585Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:51:21.656Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:51:32.300Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:51:32.367Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:51:32.370Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:51:32.435Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:51:41.788Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:51:41.858Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:51:41.860Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:51:41.933Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:55:05.090Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:55:05.162Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:55:42.711Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:55:42.782Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:55:42.784Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:55:42.849Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:55:48.613Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:55:48.678Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:55:48.680Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:55:48.746Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:58:44.252Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:58:44.325Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:58:44.327Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:58:44.434Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:59:10.089Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:59:10.160Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:59:14.076Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:59:14.181Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:59:53.699Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:59:53.768Z [32minfo[39m: Patients fetched successfully
+2025-01-10T12:59:53.771Z [32minfo[39m: Received request to get all patients
+2025-01-10T12:59:53.843Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:00:11.406Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:00:11.474Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:00:11.476Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:00:11.545Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:00:14.577Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:00:14.647Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:00:14.649Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:00:14.717Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:03:15.003Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:03:15.074Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:03:15.076Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:03:15.142Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:03:23.014Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:03:23.099Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:03:23.101Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:03:23.169Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:03:26.955Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:03:27.043Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:03:27.044Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:03:27.110Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:05:08.086Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:05:08.156Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:05:12.097Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:05:12.166Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:05:12.167Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:05:12.232Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:05:22.087Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:05:22.153Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:05:37.087Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:05:37.155Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:07:03.736Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:07:03.806Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:07:03.808Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:07:03.875Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:08:17.085Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:08:17.155Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:08:20.729Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:08:20.797Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:08:20.799Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:08:20.868Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:09:01.773Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:09:01.857Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:09:01.859Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:09:01.930Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:09:15.678Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:09:15.746Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:09:15.749Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:09:15.813Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:12:55.486Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:12:55.567Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:12:55.570Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:12:55.639Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:12:58.892Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:12:58.955Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:12:58.958Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:12:59.027Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:13:02.276Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:13:02.347Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:13:02.349Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:13:02.421Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:13:06.637Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:13:06.707Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:13:06.710Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:13:06.796Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:13:08.070Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:13:08.072Z [31merror[39m: Error fetching patient
+2025-01-10T13:13:08.075Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:13:08.076Z [31merror[39m: Error fetching patient
+2025-01-10T13:13:16.476Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:13:16.477Z [31merror[39m: Error fetching patient
+2025-01-10T13:14:34.748Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:14:34.820Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:14:34.822Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:14:34.890Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:14:54.314Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:14:54.379Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:14:54.381Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:14:54.450Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:16:34.016Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:16:34.084Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:16:34.086Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:16:34.154Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:17:44.920Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:17:44.987Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:17:44.989Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:17:45.058Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:17:47.462Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:17:47.530Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:17:47.532Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:17:47.622Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:17:54.360Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:17:54.434Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:17:54.437Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:17:54.504Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:03.010Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:03.087Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:03.090Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:03.159Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:05.290Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:18:05.291Z [31merror[39m: Error fetching patient
+2025-01-10T13:18:05.293Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:18:05.294Z [31merror[39m: Error fetching patient
+2025-01-10T13:18:07.275Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:07.344Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:07.347Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:07.410Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:09.344Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:09.455Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:09.458Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:09.587Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:12.004Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:12.075Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:12.077Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:12.157Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:34.078Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:34.146Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:42.078Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:42.147Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:45.412Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:45.541Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:18:45.544Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:18:45.611Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:22:09.355Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:22:09.423Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:22:09.425Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:22:09.493Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:22:54.086Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:22:54.156Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:22:57.347Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:22:57.424Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:22:57.426Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:22:57.496Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:23:01.934Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:23:02.001Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:23:02.003Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:23:02.074Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:23:03.183Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:23:03.222Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:23:03.224Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:23:03.257Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:23:24.235Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:23:24.273Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:23:24.275Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:23:24.310Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:24:01.207Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:24:01.276Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:24:01.278Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:24:01.345Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:24:02.209Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:24:02.245Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:24:02.247Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:24:02.285Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:24:06.734Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:24:06.801Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:24:06.803Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:24:06.872Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:24:07.854Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:24:07.926Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:24:07.928Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:24:07.994Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:26:03.097Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:26:03.133Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:26:03.138Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:26:03.180Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:26:21.089Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:26:21.123Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:26:23.951Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:26:24.113Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:26:24.116Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:26:24.255Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:26:25.032Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:26:25.151Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:26:25.153Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:26:25.229Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:26:28.582Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:26:28.652Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:26:28.654Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:26:28.722Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:26:30.506Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:26:30.579Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:26:30.581Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:26:30.692Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:27:49.078Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:27:49.147Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:27:53.083Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:27:53.205Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:28:53.079Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:28:53.144Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:30:02.097Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:30:02.175Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:30:53.081Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:30:53.246Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:31:15.947Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:31:16.063Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:31:16.066Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:31:16.165Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:32:41.084Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:32:41.152Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:32:44.518Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:32:44.589Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:32:44.591Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:32:44.659Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:32:57.082Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:32:57.150Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:33:30.783Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:33:30.855Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:33:37.089Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:33:37.159Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:33:48.699Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:33:48.768Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:34:17.082Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:34:17.149Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:35:10.753Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:35:10.818Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:35:17.090Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:35:17.182Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:35:21.081Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:35:21.152Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:35:39.076Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:35:39.147Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:35:49.081Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:35:49.147Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:36:52.760Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:36:52.899Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:36:52.900Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:36:52.975Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:36:57.081Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:36:57.146Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:36:57.148Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:36:57.218Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:37:03.078Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:37:03.140Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:37:15.705Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T13:37:15.770Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T13:37:30.081Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:37:30.149Z [32minfo[39m: Patients fetched successfully
+2025-01-10T13:37:30.152Z [32minfo[39m: Received request to get all patients
+2025-01-10T13:37:30.220Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:05:12.009Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:05:12.697Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:05:12.699Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:05:12.854Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:05:21.072Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:05:21.141Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:05:21.143Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:05:21.207Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:07:07.174Z [32minfo[39m: Received request to create food chart:
+2025-01-10T14:07:07.277Z [32minfo[39m: Food Chart created successfully:
+2025-01-10T14:14:29.086Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:14:29.123Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:14:29.123Z [32minfo[39m: User not found with ID:
+2025-01-10T14:14:29.126Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:14:29.159Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:14:29.159Z [32minfo[39m: User not found with ID:
+2025-01-10T14:17:09.595Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:17:09.628Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:17:09.628Z [32minfo[39m: User not found with ID:
+2025-01-10T14:17:09.632Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:17:09.664Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:17:09.664Z [32minfo[39m: User not found with ID:
+2025-01-10T14:17:13.077Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:17:13.111Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:17:13.111Z [32minfo[39m: User not found with ID:
+2025-01-10T14:18:06.080Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:18:06.155Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:18:06.155Z [32minfo[39m: User not found with ID:
+2025-01-10T14:18:06.158Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:18:06.236Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:18:06.236Z [32minfo[39m: User not found with ID:
+2025-01-10T14:18:50.078Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:18:50.114Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:18:50.114Z [32minfo[39m: User not found with ID:
+2025-01-10T14:18:50.118Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:18:50.155Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:18:50.155Z [32minfo[39m: User not found with ID:
+2025-01-10T14:19:24.547Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:19:24.581Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:19:24.582Z [32minfo[39m: User not found with ID:
+2025-01-10T14:19:24.585Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:19:24.620Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:19:24.621Z [32minfo[39m: User not found with ID:
+2025-01-10T14:19:24.861Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:19:24.897Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:19:24.898Z [32minfo[39m: User not found with ID:
+2025-01-10T14:19:24.900Z [32minfo[39m: Token verified for user with ID: 678113193d3be11131d8ab87
+2025-01-10T14:19:24.935Z [32minfo[39m: User fetched: No user found
+2025-01-10T14:19:24.935Z [32minfo[39m: User not found with ID:
+2025-01-10T14:20:43.908Z [32minfo[39m: Server started at port: 6002
+2025-01-10T14:20:51.117Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:20:51.201Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:20:51.206Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:20:51.275Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:21:23.094Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:21:23.165Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:21:34.119Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:21:34.194Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:22:05.985Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:22:06.055Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:23:48.097Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:23:48.168Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:23:51.781Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:23:51.868Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:23:51.872Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:23:51.938Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:24:16.085Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:24:16.155Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:25:02.088Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:25:02.198Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:25:24.820Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:25:24.892Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:25:24.894Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:25:25.001Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:25:25.912Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:25:25.976Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:25:25.978Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:25:26.048Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:26:59.079Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:26:59.146Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:26:59.148Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:26:59.216Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:27:04.085Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:27:04.159Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:27:04.162Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:27:04.231Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:28:22.085Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:28:22.153Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:28:22.156Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:28:22.223Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:30:43.305Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:30:43.307Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:30:43.372Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:30:43.374Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:30:43.377Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:30:43.379Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:30:43.443Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:30:43.445Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:31:33.271Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:31:33.273Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:31:33.388Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:31:33.390Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:31:33.391Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:31:33.393Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:31:33.461Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:31:33.463Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:32:57.009Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:32:57.078Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:32:57.080Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:32:57.145Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:32:58.105Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:32:58.473Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:32:58.475Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:32:58.573Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:37:19.087Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:37:19.122Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:37:19.125Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:37:19.162Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:43:04.352Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:43:04.384Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:43:04.387Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:43:04.423Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:47:54.803Z [32minfo[39m: Server started at port: 6002
+2025-01-10T14:48:46.423Z [32minfo[39m: Server started at port: 6002
+2025-01-10T14:48:58.420Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:48:58.467Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:48:58.473Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:48:58.510Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:49:44.899Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:49:44.939Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:49:44.941Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:49:44.979Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:50:09.954Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:50:10.078Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:50:10.081Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:50:10.158Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:50:44.427Z [32minfo[39m: Server started at port: 6002
+2025-01-10T14:50:47.545Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:50:47.605Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:50:47.611Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:50:47.655Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:51:33.714Z [32minfo[39m: Server started at port: 6002
+2025-01-10T14:51:36.636Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:51:36.684Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:51:36.690Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:51:36.790Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:51:38.253Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:51:38.328Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:51:38.332Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:51:38.474Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:51:38.932Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:51:38.934Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:51:39.000Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:51:39.003Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:51:39.007Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:51:39.010Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:51:39.076Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:51:39.078Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:51:41.624Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:51:41.692Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:51:41.695Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:51:41.763Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:51:42.476Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:51:42.519Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:51:42.521Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:51:42.559Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:52:12.194Z [32minfo[39m: Server started at port: 6002
+2025-01-10T14:52:13.657Z [32minfo[39m: Server started at port: 6002
+2025-01-10T14:52:15.921Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:52:15.979Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:52:15.984Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:52:16.027Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:52:19.982Z [32minfo[39m: Received request to update patient with id:
+2025-01-10T14:52:19.983Z [32minfo[39m: Update data received:
+2025-01-10T14:52:20.023Z [32minfo[39m: Patient found:
+2025-01-10T14:52:20.072Z [32minfo[39m: Patient updated successfully:
+2025-01-10T14:52:49.735Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:52:49.777Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:52:49.779Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:52:49.822Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:56:03.849Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:56:03.895Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:56:03.897Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:56:03.937Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:56:41.155Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:56:41.158Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:56:41.237Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:56:41.239Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:56:41.245Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:56:41.248Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:56:41.306Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:56:41.333Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:56:42.771Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:56:42.857Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:56:42.859Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:56:42.940Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:56:47.840Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:56:47.926Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:56:47.929Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:56:48.011Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:56:50.872Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:56:50.874Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:56:50.948Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:56:50.950Z [32minfo[39m: Received request to get all food charts
+2025-01-10T14:56:50.954Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:56:50.956Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:56:51.022Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T14:56:51.039Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:57:33.466Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:57:33.554Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:57:33.556Z [32minfo[39m: Received request to get all patients
+2025-01-10T14:57:33.663Z [32minfo[39m: Patients fetched successfully
+2025-01-10T14:57:34.225Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:57:34.268Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:57:34.270Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:57:34.313Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:59:03.085Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:59:03.127Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:59:05.074Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:59:05.130Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:59:10.080Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:59:10.121Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T14:59:42.082Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T14:59:42.124Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T15:00:11.649Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T15:00:11.692Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T15:00:22.758Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T15:00:22.799Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T15:00:52.081Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T15:00:52.122Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T15:02:55.905Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T15:02:55.944Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T15:02:55.946Z [32minfo[39m: Received request to get patient with id:
+2025-01-10T15:02:55.986Z [32minfo[39m: Patient fetched successfully:
+2025-01-10T15:03:29.193Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:03:29.277Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:03:29.279Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:03:29.365Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:04:31.094Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:04:31.185Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:04:56.081Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:04:56.159Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:06:35.082Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:06:35.164Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:06:58.087Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:06:58.167Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:07:04.812Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:07:04.896Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:07:08.086Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:07:08.170Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:07:13.081Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:07:13.160Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:07:25.594Z [32minfo[39m: Received request to get all food charts
+2025-01-10T15:07:25.596Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:07:25.669Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:07:25.671Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:07:25.680Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T15:07:25.682Z [32minfo[39m: Received request to get all food charts
+2025-01-10T15:07:25.739Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:07:25.765Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T15:07:27.302Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:07:27.390Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:07:27.392Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:07:27.480Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:07:34.056Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:07:34.141Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:07:34.143Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:07:34.226Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:09:40.451Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:09:47.945Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:17:02.536Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:17:02.617Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:17:02.618Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:17:02.697Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:17:20.462Z [32minfo[39m: Received request to get all food charts
+2025-01-10T15:17:20.463Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:17:20.533Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:17:20.535Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:17:20.547Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T15:17:20.549Z [32minfo[39m: Received request to get all food charts
+2025-01-10T15:17:20.603Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:17:20.631Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T15:17:21.486Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:17:21.566Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:17:21.568Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:17:21.648Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:18:14.364Z [32minfo[39m: Received request to get all food charts
+2025-01-10T15:18:14.366Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:18:14.442Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:18:14.444Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:18:14.456Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T15:18:14.458Z [32minfo[39m: Received request to get all food charts
+2025-01-10T15:18:14.517Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:18:14.540Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T15:21:11.811Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:21:11.903Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:21:11.905Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:21:11.986Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:23:29.413Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:23:29.416Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:02.872Z [32minfo[39m: Server started at port: 6002
+2025-01-10T15:24:02.901Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:09.159Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:09.162Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:09.884Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:09.887Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:10.286Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:10.289Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:10.913Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:10.915Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:11.497Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:11.500Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:12.399Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:12.401Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:13.046Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:13.048Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:15.593Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:16.527Z [32minfo[39m: Token not found, user not logged in.
+2025-01-10T15:24:43.972Z [32minfo[39m: Server started at port: 6002
+2025-01-10T15:24:45.233Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:24:45.284Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:24:45.292Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:24:45.334Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:38:08.025Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:38:08.061Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:38:08.066Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:38:08.100Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:38:25.474Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:38:25.512Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:38:25.515Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:38:25.550Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:38:53.547Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:38:53.580Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:38:53.583Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:38:53.616Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:39:10.225Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:39:10.257Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:39:10.260Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:39:10.298Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:40:32.087Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:40:32.120Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:40:32.122Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:40:32.157Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:41:17.723Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:41:17.757Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:41:17.759Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:41:17.798Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:41:23.710Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:41:23.746Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:41:23.750Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:41:23.786Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:41:40.886Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:41:40.982Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:41:40.985Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:41:41.052Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:42:38.451Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:42:38.518Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:42:38.520Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:42:38.588Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:42:40.879Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:42:40.915Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:42:40.918Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:42:40.955Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:46:20.069Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:46:20.140Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:46:20.143Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:46:20.210Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:46:26.104Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:46:26.136Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:46:26.138Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:46:26.173Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:47:21.819Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:47:21.852Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:47:21.854Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:47:21.894Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:48:56.095Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:48:56.129Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:48:56.131Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:48:56.164Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:48:58.291Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:48:58.324Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:48:58.327Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:48:58.358Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:49:02.042Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:49:02.075Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:49:02.078Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:49:02.112Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:49:42.914Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:49:43.017Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:49:43.019Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:49:43.103Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:49:43.707Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:49:43.709Z [32minfo[39m: Received request to get all food charts
+2025-01-10T15:49:43.772Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:49:43.774Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:49:43.782Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T15:49:43.786Z [32minfo[39m: Received request to get all food charts
+2025-01-10T15:49:43.841Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:49:43.856Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T15:49:44.136Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:49:44.209Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:49:44.211Z [32minfo[39m: Received request to get all patients
+2025-01-10T15:49:44.279Z [32minfo[39m: Patients fetched successfully
+2025-01-10T15:50:23.433Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:50:23.471Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:53:10.172Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:53:10.212Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:53:10.214Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:53:10.286Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:53:11.145Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:53:11.182Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:53:11.184Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:53:11.219Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:53:11.413Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:53:11.448Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:53:11.450Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:53:11.495Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:53:11.673Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:53:11.737Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:53:11.739Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:53:11.807Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:54:38.072Z [32minfo[39m: Server started at port: 6002
+2025-01-10T15:55:12.605Z [32minfo[39m: Server started at port: 6002
+2025-01-10T15:55:52.919Z [32minfo[39m: Server started at port: 6002
+2025-01-10T15:55:57.877Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:55:57.924Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:55:57.928Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:55:57.971Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:57:45.933Z [32minfo[39m: Server started at port: 6002
+2025-01-10T15:57:46.092Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:57:46.531Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:59:35.343Z [32minfo[39m: Server started at port: 6002
+2025-01-10T15:59:35.367Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:59:36.074Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T15:59:48.091Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T15:59:48.141Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:01:51.092Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:01:51.130Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:02:04.948Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:02:04.982Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:02:05.384Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:02:05.418Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:02:05.745Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:02:05.798Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:02:07.017Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:02:07.055Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:02:59.091Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:02:59.165Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:04:50.763Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:04:50.799Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:04:58.086Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:04:58.124Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:05:05.839Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:05:05.876Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:05:56.088Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:05:56.135Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:05:56.138Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:05:56.178Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:06:54.085Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:06:54.121Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:06:54.123Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:06:54.156Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:06:54.159Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:06:54.193Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:06:54.196Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:06:54.229Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:06:54.231Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:06:54.265Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:06:54.267Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:06:54.306Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:06:54.309Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:06:54.347Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:06:54.351Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:06:54.388Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:07:36.083Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:07:36.119Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:07:40.851Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:07:40.938Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:07:49.076Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:07:49.125Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:07:58.887Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:07:58.922Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:08:03.586Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:08:03.619Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:08:10.076Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:08:10.112Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:08:15.936Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:08:16.019Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:08:26.764Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:08:26.800Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:08:42.873Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:08:42.909Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:09:39.081Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:09:39.116Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:11:00.078Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:11:00.113Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:11:13.086Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:11:13.125Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:11:21.077Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:11:21.111Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:11:27.076Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:11:27.111Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:12:02.243Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:12:02.277Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:12:14.049Z [32minfo[39m: Incoming request: POST /api/pantry-item/single-Item/677ec4ca87b4a4022120f06c
+2025-01-10T16:13:28.473Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:13:28.527Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:13:28.532Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:13:28.575Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:14:35.781Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:14:35.818Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:14:57.863Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:14:57.903Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:14:57.905Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:14:57.938Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:15:03.831Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:15:03.867Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:15:03.869Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:15:03.906Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:15:15.084Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:15:15.122Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:15:28.089Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:15:28.125Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:15:36.084Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:15:36.118Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:15:42.077Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:15:42.112Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:16:06.664Z [32minfo[39m: Received request to get all food charts
+2025-01-10T16:16:06.667Z [32minfo[39m: Received request to get all patients
+2025-01-10T16:16:06.741Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T16:16:06.744Z [32minfo[39m: Received request to get all food charts
+2025-01-10T16:16:06.753Z [32minfo[39m: Patients fetched successfully
+2025-01-10T16:16:06.756Z [32minfo[39m: Received request to get all patients
+2025-01-10T16:16:06.816Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T16:16:06.837Z [32minfo[39m: Patients fetched successfully
+2025-01-10T16:16:08.064Z [32minfo[39m: Received request to get all patients
+2025-01-10T16:16:08.147Z [32minfo[39m: Patients fetched successfully
+2025-01-10T16:16:08.150Z [32minfo[39m: Received request to get all patients
+2025-01-10T16:16:08.242Z [32minfo[39m: Patients fetched successfully
+2025-01-10T16:16:14.362Z [32minfo[39m: Received request to get all food charts
+2025-01-10T16:16:14.364Z [32minfo[39m: Received request to get all patients
+2025-01-10T16:16:14.434Z [32minfo[39m: Patients fetched successfully
+2025-01-10T16:16:14.437Z [32minfo[39m: Received request to get all patients
+2025-01-10T16:16:14.451Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T16:16:14.453Z [32minfo[39m: Received request to get all food charts
+2025-01-10T16:16:14.507Z [32minfo[39m: Patients fetched successfully
+2025-01-10T16:16:14.537Z [32minfo[39m: Food Charts fetched successfully
+2025-01-10T16:16:17.096Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:16:17.154Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:16:17.156Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:16:17.228Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:16:39.087Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:16:39.129Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:16:39.131Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:16:39.173Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:16:46.943Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:16:47.042Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:16:47.045Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:16:47.107Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:17:08.555Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:17:08.598Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:17:08.601Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:17:08.642Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:19:34.604Z [32minfo[39m: Received login request with email: hospital_pantry@xyz.com
+2025-01-10T16:19:34.712Z [32minfo[39m: Login successful
+2025-01-10T16:31:35.493Z [32minfo[39m: Received request to add new pantry item:
+2025-01-10T16:31:35.565Z [32minfo[39m: Pantry item added successfully:
+2025-01-10T16:35:13.084Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:13.125Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:13.127Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:13.167Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:28.104Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:28.145Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:28.147Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:28.185Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:32.002Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:32.045Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:32.047Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:32.087Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:37.019Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:37.064Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:37.066Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:37.115Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:44.690Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:44.733Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:44.735Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:44.777Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:47.370Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:47.412Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:47.414Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:47.459Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:55.643Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:55.684Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:35:55.686Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:35:55.727Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:42:36.321Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:42:36.361Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:42:36.365Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:42:36.410Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:43:12.258Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:43:12.300Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:43:12.302Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:43:12.344Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:43:33.258Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:43:33.299Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:43:33.301Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:43:33.345Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:43:39.317Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:43:39.362Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:43:39.366Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:43:39.409Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:45:23.596Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:45:23.643Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:45:23.648Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:45:23.694Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:45:24.490Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:45:24.531Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:45:24.534Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:45:24.575Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:49:40.089Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:49:40.135Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:53:02.089Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:53:02.131Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T16:53:02.133Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T16:53:02.179Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:02:16.507Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:02:16.553Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:02:16.555Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:02:16.617Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:04:15.707Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:04:15.748Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:04:15.750Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:04:15.791Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:05:55.218Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:05:55.256Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:05:55.258Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:05:55.299Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:07:07.066Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:07:07.108Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:07:07.110Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:07:07.152Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:07:09.243Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:07:09.282Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:07:09.284Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:07:09.323Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:07:12.178Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:07:12.219Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:07:12.221Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:07:12.263Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:08:13.432Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:08:13.475Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:08:13.477Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:08:13.518Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:10:51.597Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:10:51.640Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:10:51.642Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:10:51.683Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:11:19.957Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:11:20.000Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:11:20.003Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:11:20.044Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:14:50.089Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:14:50.143Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:14:50.145Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:14:50.208Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:21:23.079Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:21:23.121Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:22:44.094Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:22:44.141Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:22:44.143Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:22:44.186Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:23:44.088Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:23:44.133Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:23:44.135Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:23:44.177Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:24:39.095Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:24:39.137Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:24:39.139Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:24:39.182Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:24:48.045Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:24:48.092Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:27:23.088Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:27:23.134Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:27:36.087Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:27:36.129Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:28:17.000Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:28:17.041Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:28:42.863Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:28:42.903Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:30:46.089Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:30:46.132Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:30:46.134Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:30:46.175Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:31:07.089Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:31:07.135Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:31:07.139Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:31:07.179Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:31:45.570Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:31:45.609Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:31:45.612Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:31:45.655Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:33:40.082Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:33:40.124Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:33:40.126Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:33:40.170Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:33:46.294Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:33:46.339Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:33:46.341Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:33:46.385Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:34:10.050Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:34:10.095Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:34:10.099Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:34:10.143Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:34:23.069Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:34:23.134Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:34:23.626Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:34:23.666Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:35:10.960Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:35:11.007Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:35:21.092Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:35:21.131Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:35:21.134Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:35:21.177Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:35:50.083Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:35:50.125Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:35:55.772Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:35:55.820Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:35:55.823Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:35:55.864Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:36:02.657Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:36:02.697Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:36:02.699Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:36:02.738Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:37:17.086Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:37:17.130Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:37:38.083Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:37:38.123Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:37:38.125Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:37:38.169Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:37:49.591Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:37:49.630Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:42:36.380Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:42:36.462Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:44:20.903Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:44:20.952Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:44:20.955Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:44:20.996Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:49:14.132Z [32minfo[39m: Server started at port: 6002
+2025-01-10T17:49:16.113Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:49:16.160Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:49:16.171Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:49:16.209Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:49:29.967Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:49:30.021Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:49:39.873Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T17:49:39.874Z [32minfo[39m: Update data received:
+2025-01-10T17:49:39.959Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T17:50:04.651Z [32minfo[39m: Server started at port: 6002
+2025-01-10T17:50:05.932Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T17:50:05.932Z [32minfo[39m: Update data received:
+2025-01-10T17:50:06.036Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T17:50:32.774Z [32minfo[39m: Server started at port: 6002
+2025-01-10T17:50:34.132Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T17:50:34.133Z [32minfo[39m: Update data received:
+2025-01-10T17:50:34.229Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T17:50:43.470Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T17:50:43.471Z [32minfo[39m: Update data received:
+2025-01-10T17:50:43.558Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T17:50:59.024Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:50:59.068Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:50:59.072Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:50:59.114Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:51:12.007Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T17:51:12.008Z [32minfo[39m: Update data received:
+2025-01-10T17:51:12.096Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T17:51:29.852Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:51:29.895Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:53:02.088Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:53:02.130Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:53:05.975Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:53:06.026Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:53:08.682Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:53:08.730Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:53:08.732Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:53:08.777Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:53:17.106Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:53:17.149Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:53:26.820Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:53:26.860Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:53:37.569Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:53:37.611Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:53:51.118Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:53:51.163Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:54:18.094Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:54:18.132Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:54:51.081Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:54:51.125Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:55:07.430Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:55:07.475Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:55:19.788Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:55:19.838Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:55:25.091Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:55:25.134Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:55:42.499Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:55:42.548Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:55:42.550Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:55:42.591Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:56:47.117Z [32minfo[39m: Server started at port: 6002
+2025-01-10T17:56:47.352Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:56:47.713Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:56:47.717Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:56:48.132Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:57:01.894Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:57:01.932Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:57:01.936Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:57:01.980Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:57:17.706Z [32minfo[39m: Server started at port: 6002
+2025-01-10T17:57:30.701Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:57:30.745Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:57:30.750Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T17:57:30.787Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T17:57:37.208Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T17:57:37.209Z [32minfo[39m: Update data received:
+2025-01-10T17:57:37.287Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T17:57:52.289Z [32minfo[39m: Server started at port: 6002
+2025-01-10T17:57:53.364Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T17:57:53.365Z [32minfo[39m: Update data received:
+2025-01-10T17:57:53.448Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T17:57:59.417Z [32minfo[39m: Server started at port: 6002
+2025-01-10T17:58:00.404Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T17:58:00.404Z [32minfo[39m: Update data received:
+2025-01-10T17:58:00.497Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T18:01:44.105Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:01:44.153Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:01:44.157Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:01:44.198Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:05:07.041Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:05:07.087Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:05:07.090Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:05:07.134Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:05:49.826Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:05:49.871Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:05:49.873Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:05:49.918Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:05:53.975Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T18:05:53.975Z [32minfo[39m: Update data received:
+2025-01-10T18:05:54.060Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T18:07:37.305Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:07:37.364Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:07:37.367Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:07:37.422Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:08:04.127Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T18:08:04.127Z [32minfo[39m: Update data received:
+2025-01-10T18:08:04.210Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T18:09:47.064Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:09:47.111Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:09:47.113Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:09:47.154Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:16:21.424Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:16:21.457Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:16:21.460Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:16:21.501Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:19:57.230Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:19:57.267Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:19:57.270Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:19:57.305Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:20:10.915Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:20:10.953Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:20:10.957Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:20:10.992Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:20:18.385Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:20:18.426Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:20:18.428Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:20:18.461Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:24:24.096Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:24:24.135Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:24:24.137Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:24:24.176Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:25:36.231Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:25:36.270Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:25:36.272Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:25:36.306Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:34:39.664Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T18:34:39.665Z [32minfo[39m: Update data received:
+2025-01-10T18:34:39.702Z [32minfo[39m: Pantry item not found with id:
+2025-01-10T18:42:18.664Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:42:18.697Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:42:18.700Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:42:18.734Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:42:27.054Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T18:42:27.055Z [32minfo[39m: Update data received:
+2025-01-10T18:42:27.058Z [31merror[39m: Error in updatePantryItem controller
+2025-01-10T18:44:21.430Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T18:44:21.431Z [32minfo[39m: Update data received:
+2025-01-10T18:44:21.515Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T18:46:35.790Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T18:46:35.790Z [32minfo[39m: Update data received:
+2025-01-10T18:46:35.873Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T18:46:59.648Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T18:46:59.648Z [32minfo[39m: Update data received:
+2025-01-10T18:46:59.717Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T18:47:03.660Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:47:03.694Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:47:48.487Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T18:47:48.487Z [32minfo[39m: Update data received:
+2025-01-10T18:47:48.552Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T18:48:44.373Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T18:48:44.374Z [32minfo[39m: Update data received:
+2025-01-10T18:48:44.440Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T18:48:50.565Z [32minfo[39m: Received request to update pantry item with id:
+2025-01-10T18:48:50.566Z [32minfo[39m: Update data received:
+2025-01-10T18:48:50.651Z [32minfo[39m: Pantry item updated successfully:
+2025-01-10T18:49:22.086Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:49:22.121Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:49:22.123Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:49:22.161Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:49:39.881Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:49:39.985Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T18:49:39.987Z [32minfo[39m: Received request to get all pantry items
+2025-01-10T18:49:40.062Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-10T19:45:57.062Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:24:00.389Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:31:19.510Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:31:42.702Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:32:46.257Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:34:25.815Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:35:03.120Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:38:32.060Z [32minfo[39m: Token not found, user not logged in.
+2025-01-11T04:38:37.014Z [32minfo[39m: Token not found, user not logged in.
+2025-01-11T04:38:37.020Z [32minfo[39m: Token not found, user not logged in.
+2025-01-11T04:39:15.831Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:39:21.076Z [32minfo[39m: Token not found, user not logged in.
+2025-01-11T04:39:21.086Z [32minfo[39m: Token not found, user not logged in.
+2025-01-11T04:39:51.050Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:39:56.268Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:39:56.328Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:39:56.342Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:39:56.386Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:40:18.704Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:40:18.745Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:40:18.752Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:40:18.800Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:41:01.032Z [32minfo[39m: Incoming request: GET /api/users/singleUser/678143e846d65a6b300e9df8
+2025-01-11T04:41:21.197Z [32minfo[39m: Incoming request: POST /api/users/singleUser/678143e846d65a6b300e9df8
+2025-01-11T04:41:42.964Z [32minfo[39m: Incoming request: POST /api/users/singleUser/678143e846d65a6b300e9df8
+2025-01-11T04:42:37.063Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:43:38.383Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:46:03.920Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:46:03.973Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:46:03.992Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:46:04.035Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:46:31.041Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:46:31.079Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:46:32.948Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:46:32.989Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:46:49.349Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:46:49.387Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:47:00.590Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:47:00.632Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:47:21.814Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:47:21.852Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:47:33.028Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:47:33.065Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:47:38.037Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:47:38.072Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:47:43.903Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:47:43.940Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:48:10.032Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:48:10.078Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:48:22.919Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:48:22.957Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:48:31.821Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:48:31.859Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:48:38.450Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:48:38.486Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:48:43.467Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:48:43.506Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:48:46.418Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:48:46.456Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:48:57.031Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:48:57.068Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:49:08.029Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:49:08.066Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:49:09.024Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:49:09.064Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:49:13.040Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:49:13.078Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:49:52.054Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:49:52.096Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:49:54.354Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:49:54.387Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:49:54.391Z [32minfo[39m: Decoded user ID from token: 678143e846d65a6b300e9df8
+2025-01-11T04:49:54.428Z [32minfo[39m: User not found with ID: 678143e846d65a6b300e9df8
+2025-01-11T04:52:20.751Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:52:26.115Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=678143e846d65a6b300e9df8
+2025-01-11T04:52:26.126Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=678143e846d65a6b300e9df8
+2025-01-11T04:52:40.112Z [32minfo[39m: Incoming request: POST /api/users/singleUser/678143e846d65a6b300e9df8
+2025-01-11T04:52:44.179Z [32minfo[39m: Unauthorized request
+2025-01-11T04:53:03.022Z [32minfo[39m: Server started at port: 6002
+2025-01-11T04:53:26.048Z [32minfo[39m: Token not found, user not logged in.
+2025-01-11T04:53:53.946Z [32minfo[39m: Received login request with email: hospital_pantry@xyz.com
+2025-01-11T04:53:54.084Z [32minfo[39m: Login successful
+2025-01-11T04:53:54.159Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T04:53:54.165Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T04:55:38.351Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T04:55:38.396Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T04:55:38.402Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T04:55:38.442Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T04:55:43.683Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T04:55:43.721Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T04:55:43.725Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T04:55:43.761Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T05:08:36.507Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:08:36.512Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:10:04.364Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:10:04.369Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:10:29.368Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:10:29.373Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:15:34.394Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:15:34.399Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:24:08.045Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:24:08.049Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:25:03.923Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:25:03.926Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:25:24.043Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:25:26.649Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:25:26.652Z [32minfo[39m: Incoming request: GET /api/users/singleUser?id=6781f9305616cd849516b36f
+2025-01-11T05:27:53.618Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T05:27:53.655Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T05:27:53.659Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T05:27:53.702Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T05:28:01.990Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T05:28:02.027Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T05:28:02.031Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T05:28:02.070Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T05:33:15.046Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:33:15.128Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:33:15.132Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:33:15.203Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:33:33.044Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:33:33.115Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:33:33.118Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:33:33.191Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:34:06.822Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:34:07.024Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:35:13.046Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:35:13.122Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:35:13.126Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:35:13.196Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:35:18.933Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:35:19.016Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:35:19.022Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:35:19.093Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:36:17.307Z [32minfo[39m: Received request to create delivery:
+2025-01-11T05:36:17.347Z [32minfo[39m: Patient not found with id:
+2025-01-11T05:38:53.045Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:38:53.114Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:38:53.117Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:38:53.186Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:46:29.039Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:46:29.107Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:48:51.039Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:48:51.181Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:48:51.184Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:48:51.379Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:50:02.037Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:50:02.118Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:51:46.046Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:51:46.114Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:51:46.118Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:51:46.189Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:51:49.199Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:51:49.274Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:51:49.278Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:51:49.352Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:52:55.084Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:52:55.163Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:52:55.166Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:52:55.241Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:53:26.506Z [32minfo[39m: Received request to create delivery:
+2025-01-11T05:53:26.604Z [32minfo[39m: Delivery created successfully:
+2025-01-11T05:53:54.848Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T05:53:54.887Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T05:53:54.891Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T05:53:54.929Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T05:54:01.130Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T05:54:01.169Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T05:54:01.172Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T05:54:01.215Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T05:54:03.060Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:54:03.130Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:54:03.133Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:54:03.207Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:55:44.042Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:55:44.112Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:55:44.115Z [32minfo[39m: Received request to get all patients
+2025-01-11T05:55:44.189Z [32minfo[39m: Patients fetched successfully
+2025-01-11T05:56:52.208Z [32minfo[39m: Received login request with email: hospital_delivery@xyz.com
+2025-01-11T05:56:52.312Z [32minfo[39m: Login successful
+2025-01-11T06:07:00.088Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:07:00.159Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:08:09.097Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:08:59.102Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:08:59.178Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:11:11.317Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:11:16.890Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:11:54.342Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:12:23.860Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:12:23.929Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:12:33.893Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:12:33.965Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:12:58.132Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:12:58.202Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:14:50.540Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:14:50.619Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:16:03.366Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:16:03.436Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:18:21.056Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:18:21.285Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:18:23.998Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:18:24.103Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:18:26.016Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:18:26.141Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:18:29.178Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:18:29.282Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:20:04.107Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:20:23.369Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:20:23.445Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:20:36.258Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:20:41.375Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:20:41.464Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:20:57.039Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:20:58.893Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T06:20:58.893Z [32minfo[39m: Update data received:
+2025-01-11T06:20:58.894Z [31merror[39m: Error updating delivery status
+2025-01-11T06:21:20.156Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:23:20.981Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T06:23:20.981Z [32minfo[39m: Update data received:
+2025-01-11T06:23:21.061Z [32minfo[39m: Delivery found:
+2025-01-11T06:23:21.107Z [32minfo[39m: Delivery status updated successfully:
+2025-01-11T06:23:25.429Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T06:23:25.429Z [32minfo[39m: Update data received:
+2025-01-11T06:23:25.499Z [32minfo[39m: Delivery found:
+2025-01-11T06:23:25.535Z [32minfo[39m: Delivery status updated successfully:
+2025-01-11T06:26:11.740Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T06:26:11.740Z [32minfo[39m: Update data received:
+2025-01-11T06:26:11.779Z [32minfo[39m: Delivery found:
+2025-01-11T06:26:11.781Z [31merror[39m: Error updating delivery status
+2025-01-11T06:26:16.932Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:26:17.002Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:26:25.405Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T06:26:25.405Z [32minfo[39m: Update data received:
+2025-01-11T06:26:25.478Z [32minfo[39m: Delivery found:
+2025-01-11T06:26:25.479Z [31merror[39m: Error updating delivery status
+2025-01-11T06:26:38.044Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T06:26:38.045Z [32minfo[39m: Update data received:
+2025-01-11T06:26:38.081Z [32minfo[39m: Delivery found:
+2025-01-11T06:26:38.082Z [31merror[39m: Error updating delivery status
+2025-01-11T06:30:37.853Z [32minfo[39m: Server started at port: 6002
+2025-01-11T06:30:58.382Z [32minfo[39m: Server started at port: 6002
+2025-01-11T06:31:35.135Z [32minfo[39m: Server started at port: 6002
+2025-01-11T06:32:43.790Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T06:32:43.791Z [32minfo[39m: Update data received:
+2025-01-11T06:32:43.841Z [32minfo[39m: Delivery found:
+2025-01-11T06:32:43.880Z [32minfo[39m: Delivery status updated successfully:
+2025-01-11T06:33:36.133Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:34:48.856Z [32minfo[39m: Server started at port: 6002
+2025-01-11T06:35:29.967Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:35:30.047Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:35:54.194Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T06:35:54.194Z [32minfo[39m: Update data received:
+2025-01-11T06:35:54.233Z [32minfo[39m: Delivery found:
+2025-01-11T06:35:54.276Z [32minfo[39m: Delivery status updated successfully:
+2025-01-11T06:37:12.527Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:37:30.948Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:39:35.092Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T06:39:35.092Z [32minfo[39m: Update data received:
+2025-01-11T06:39:35.132Z [32minfo[39m: Delivery found:
+2025-01-11T06:39:35.183Z [32minfo[39m: Delivery status updated successfully:
+2025-01-11T06:43:51.960Z [32minfo[39m: Server started at port: 6002
+2025-01-11T06:44:05.123Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:44:05.197Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:44:20.117Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:45:26.104Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:45:26.181Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:48:02.273Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T06:48:02.274Z [32minfo[39m: Update data received:
+2025-01-11T06:48:02.311Z [32minfo[39m: Delivery found:
+2025-01-11T06:48:02.384Z [32minfo[39m: Delivery status updated successfully:
+2025-01-11T06:48:02.465Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:48:24.100Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T06:48:24.101Z [32minfo[39m: Update data received:
+2025-01-11T06:48:24.136Z [32minfo[39m: Delivery found:
+2025-01-11T06:48:24.173Z [32minfo[39m: Delivery status updated successfully:
+2025-01-11T06:48:24.252Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:48:29.510Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:48:29.579Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:49:06.936Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:49:07.010Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:49:57.260Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T06:49:57.333Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T07:05:25.691Z [32minfo[39m: Server started at port: 6002
+2025-01-11T07:06:50.435Z [32minfo[39m: Server started at port: 6002
+2025-01-11T07:07:23.982Z [32minfo[39m: Server started at port: 6002
+2025-01-11T07:15:13.775Z [32minfo[39m: Server started at port: 6002
+2025-01-11T07:16:07.512Z [32minfo[39m: Server started at port: 6002
+2025-01-11T07:22:05.908Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T07:22:05.987Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T07:22:57.873Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T07:22:57.950Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T07:23:03.703Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T07:23:03.776Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T09:31:35.067Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T09:31:35.143Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T09:31:39.981Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T09:31:40.050Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:03:00.029Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:03:00.099Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:03:12.187Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:03:12.257Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:10:16.607Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:10:16.683Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:10:28.753Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T10:10:28.754Z [32minfo[39m: Update data received:
+2025-01-11T10:10:28.791Z [32minfo[39m: Delivery found:
+2025-01-11T10:10:28.856Z [32minfo[39m: Delivery status updated successfully:
+2025-01-11T10:10:28.932Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:10:58.964Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:10:59.053Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:19:12.405Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:19:12.545Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:19:16.704Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:19:16.774Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:22:12.474Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:22:12.553Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:22:15.622Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:22:15.691Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:21.519Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:21.594Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:26.558Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:26.627Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:27.247Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:27.319Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:28.665Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:28.739Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:29.400Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:29.472Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:32.347Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:27:32.415Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:32:07.113Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:32:07.188Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:34:20.210Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:35:59.205Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:36:16.118Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:36:58.844Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:41:01.097Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:43:18.111Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:43:46.082Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:43:46.154Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:45:33.909Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:45:33.981Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:46:22.113Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:46:22.180Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:47:45.520Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:47:50.104Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:47:52.092Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:48:36.701Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:49:00.724Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:49:30.885Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:49:37.918Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:49:44.101Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:49:50.795Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:49:54.097Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:49:59.976Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:50:11.965Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:50:57.494Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:51:08.881Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:52:21.129Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:52:21.238Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:52:50.121Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:52:50.267Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:52:56.632Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:52:56.706Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:03.446Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:03.517Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:04.304Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:04.378Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:07.502Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:07.574Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:43.814Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:43.889Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:45.122Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:45.188Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:48.907Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:48.994Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:57.469Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:53:57.538Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:54:01.411Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:54:01.481Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:54:14.285Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:54:14.356Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:54:24.863Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:54:24.937Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:56:45.132Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:56:45.201Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T10:59:31.465Z [32minfo[39m: Received login request with email: hospital_pantry@xyz.com
+2025-01-11T10:59:31.568Z [32minfo[39m: Login successful
+2025-01-11T10:59:41.130Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T10:59:41.168Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T10:59:41.171Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T10:59:41.204Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T10:59:46.813Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T10:59:46.849Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T10:59:46.851Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T10:59:46.883Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T10:59:56.010Z [32minfo[39m: Received request to get all patients
+2025-01-11T10:59:56.086Z [32minfo[39m: Patients fetched successfully
+2025-01-11T10:59:56.087Z [32minfo[39m: Received request to get all patients
+2025-01-11T10:59:56.165Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:00:13.681Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:00:13.716Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:00:13.718Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:00:13.754Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:00:37.691Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:00:37.760Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:00:37.762Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:00:37.832Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:00:46.747Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:00:46.781Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:00:46.784Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:00:46.820Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:01:01.722Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:01:01.794Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:01:01.796Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:01:01.864Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:01:54.071Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:01:54.108Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:01:54.110Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:01:54.144Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:02:01.657Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:02:01.728Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:02:01.730Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:02:01.796Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:02:20.970Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:02:21.005Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:02:21.008Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:02:21.046Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:02:30.097Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:02:30.134Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:02:30.136Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:02:30.172Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:02:46.660Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:02:46.729Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:02:46.732Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:02:46.800Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:03:24.678Z [32minfo[39m: Received request to create delivery:
+2025-01-11T11:03:24.764Z [32minfo[39m: Delivery created successfully:
+2025-01-11T11:03:52.246Z [32minfo[39m: Received login request with email: hospital_delivery@xyz.com
+2025-01-11T11:03:52.344Z [32minfo[39m: Login successful
+2025-01-11T11:03:54.334Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:03:54.404Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:04:14.453Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:04:14.534Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:04:19.049Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:04:19.121Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:04:19.998Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:04:20.069Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:06:52.325Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:06:52.400Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:06:56.340Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:06:56.497Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:06:58.449Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:06:58.521Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:07:45.631Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:07:45.699Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:07:52.272Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:07:52.362Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:08:34.585Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:08:34.656Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:08:36.204Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:08:36.274Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:08:38.735Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:08:38.827Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:08:41.454Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:08:41.522Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:08:58.222Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:00.867Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:00.939Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:01.392Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:01.470Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:14.110Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:16.485Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:16.564Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:17.964Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:18.039Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:18.794Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:18.865Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:21.048Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:09:21.118Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:10:17.479Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:10:17.548Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:10:59.664Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:10:59.729Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:10:59.731Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:10:59.804Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:12:37.027Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:12:37.099Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:15:22.041Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:15:22.117Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:16:07.610Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:16:07.685Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:16:23.144Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:16:23.223Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:16:23.227Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:16:23.296Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:16:25.396Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:16:25.465Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:16:26.607Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:16:26.677Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:16:29.929Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:16:29.997Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:16:29.999Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:16:30.067Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:16:32.342Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:16:32.417Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:16:33.707Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:16:33.781Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:16:39.314Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:16:39.386Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:16:39.388Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:16:39.457Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:17:44.589Z [32minfo[39m: Received request to create delivery:
+2025-01-11T11:17:44.671Z [32minfo[39m: Delivery created successfully:
+2025-01-11T11:18:02.994Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:18:03.065Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:18:13.607Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:18:13.682Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:02.037Z [32minfo[39m: Received request to update delivery status for id:
+2025-01-11T11:19:02.038Z [32minfo[39m: Update data received:
+2025-01-11T11:19:02.072Z [32minfo[39m: Delivery found:
+2025-01-11T11:19:02.125Z [32minfo[39m: Delivery status updated successfully:
+2025-01-11T11:19:02.200Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:06.865Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:06.940Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:14.284Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:14.360Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:20.446Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:19:20.515Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:19:20.517Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:19:20.584Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:19:21.567Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:21.639Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:31.587Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:31.662Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:32.280Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:32.350Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:42.486Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:19:42.580Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:19:42.583Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:19:42.655Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:19:43.561Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:43.631Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:44.362Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:44.434Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:45.428Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:45.503Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:19:47.056Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:19:47.125Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:19:47.127Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:19:47.194Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:20:33.087Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:20:33.175Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:20:35.111Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:20:35.178Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:20:35.432Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:20:37.465Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:20:39.742Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:20:41.797Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:20:43.848Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:20:45.802Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:21:51.108Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:22:00.809Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:22:02.730Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:22:04.869Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:22:07.210Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:22:09.229Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T11:22:44.854Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-11T11:22:44.951Z [32minfo[39m: Login successful
+2025-01-11T11:22:48.989Z [32minfo[39m: Received request to get all food charts
+2025-01-11T11:22:48.991Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:22:49.058Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T11:22:49.061Z [32minfo[39m: Received request to get all food charts
+2025-01-11T11:22:49.129Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T11:22:49.352Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:22:49.354Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:22:49.423Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:22:55.075Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:22:55.143Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:22:55.145Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:22:55.213Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:23:04.681Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:23:04.752Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:23:04.754Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:23:04.820Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:24:25.887Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:24:25.954Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:25:07.040Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:25:07.106Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:26:40.040Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:26:40.109Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:26:40.111Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:26:40.179Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:27:51.031Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:27:51.101Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:30:49.031Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:30:49.104Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:31:17.036Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:31:17.107Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:33:39.031Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:33:39.100Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:34:44.088Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:34:44.274Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:35:04.050Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:35:04.123Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:35:31.034Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:35:31.102Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:35:46.833Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:35:46.916Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:35:52.617Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:35:52.686Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:37:03.042Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:37:03.110Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:37:28.027Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:37:28.096Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:37:42.386Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:37:42.454Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:37:42.456Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:37:42.522Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:37:43.847Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:37:43.849Z [32minfo[39m: Received request to get all food charts
+2025-01-11T11:37:43.915Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:37:43.917Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T11:37:43.919Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:37:43.920Z [32minfo[39m: Received request to get all food charts
+2025-01-11T11:37:43.991Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T11:37:43.992Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:37:45.640Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:37:45.725Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:37:45.727Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:37:45.810Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:37:51.620Z [32minfo[39m: Received request to get all food charts
+2025-01-11T11:37:51.621Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:37:51.690Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:37:51.691Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T11:37:51.692Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:37:51.694Z [32minfo[39m: Received request to get all food charts
+2025-01-11T11:37:51.762Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T11:37:51.764Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:42:58.612Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:42:58.736Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:42:58.739Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:42:58.868Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:43:15.933Z [32minfo[39m: Received request to get all food charts
+2025-01-11T11:43:15.935Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:43:16.001Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:43:16.003Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T11:43:16.004Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:43:16.006Z [32minfo[39m: Received request to get all food charts
+2025-01-11T11:43:16.070Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:43:16.073Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T11:43:18.334Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:43:18.400Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:43:18.402Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:43:18.476Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:43:20.417Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:43:20.453Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:43:20.455Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:43:20.490Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:44:03.858Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:44:03.892Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:44:03.895Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:44:03.929Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:46:33.579Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:46:33.647Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:46:33.649Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:46:33.719Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:46:34.954Z [32minfo[39m: Received request to get patient with id:
+2025-01-11T11:46:34.991Z [32minfo[39m: Patient fetched successfully:
+2025-01-11T11:46:34.993Z [32minfo[39m: Received request to get patient with id:
+2025-01-11T11:46:35.025Z [32minfo[39m: Patient fetched successfully:
+2025-01-11T11:46:39.918Z [32minfo[39m: Received request to get all food charts
+2025-01-11T11:46:39.920Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:46:39.989Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T11:46:39.990Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:46:39.992Z [32minfo[39m: Received request to get all food charts
+2025-01-11T11:46:39.994Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:46:40.063Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:46:40.064Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T11:46:41.446Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:46:41.513Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:46:41.515Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:46:41.583Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:46:45.953Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:46:45.991Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:46:45.994Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:46:46.031Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:57:03.386Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:57:03.419Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:57:03.422Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:57:03.461Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:57:29.517Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:57:29.646Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:57:29.648Z [32minfo[39m: Received request to get all patients
+2025-01-11T11:57:29.760Z [32minfo[39m: Patients fetched successfully
+2025-01-11T11:57:32.464Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:57:32.500Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:57:32.503Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:57:32.538Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T11:59:41.047Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T11:59:41.083Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:01:08.048Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:01:08.220Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:01:41.867Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:01:41.904Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:01:41.906Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:01:41.938Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:05:38.372Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:05:38.441Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:05:45.979Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:05:46.023Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:05:46.025Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:05:46.071Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:05:48.134Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:05:48.202Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:05:56.364Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:05:56.400Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:05:56.402Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:05:56.435Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:06:02.072Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:06:02.140Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:06:02.142Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:06:02.210Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:06:07.337Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:06:07.413Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:06:07.415Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:06:07.485Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:06:08.217Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:06:08.219Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:06:08.286Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:06:08.288Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:06:08.293Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:06:08.296Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:06:08.357Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:06:08.364Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:06:09.314Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:06:09.384Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:06:09.386Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:06:09.456Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:06:11.218Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:06:11.253Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:06:11.255Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:06:11.289Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:06:12.646Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:06:12.735Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:06:13.702Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:06:13.747Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:06:13.749Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:06:13.782Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:06:15.198Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:06:15.265Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:06:15.267Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:06:15.334Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:07:11.043Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:07:11.113Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:07:11.115Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:07:11.180Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:07:18.321Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:07:18.322Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:07:18.409Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:07:18.411Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:07:18.412Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:07:18.415Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:07:18.495Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:07:18.497Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:07:19.142Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:07:19.219Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:07:19.224Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:07:19.301Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:07:20.747Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:07:20.789Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:07:20.791Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:07:20.825Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:07:21.533Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:07:21.602Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:08:55.632Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:08:55.725Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:08:57.683Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:08:57.755Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:09:04.149Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:09:04.184Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:09:06.173Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:09:06.210Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:09:09.813Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:09:11.819Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:11:13.927Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:11:13.929Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:11:13.994Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:11:13.996Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:11:14.100Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:11:14.102Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:11:14.172Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:11:14.175Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:12:20.560Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:12:20.563Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:12:20.629Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:12:20.634Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:12:20.743Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:12:20.810Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:13:14.889Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:13:14.893Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:13:14.957Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:13:14.959Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:13:14.977Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:13:14.979Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:13:15.029Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:13:15.046Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:13:19.039Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:13:19.042Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:13:19.111Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:13:19.112Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:13:19.113Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:13:19.115Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:13:19.182Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:13:19.186Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:16:01.145Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:16:01.213Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:16:01.318Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:16:01.386Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:16:03.653Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:16:03.688Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:16:03.826Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:16:03.862Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:16:04.850Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:16:05.026Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:16:06.057Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:16:06.060Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:16:06.129Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:16:06.132Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:16:06.234Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:16:06.237Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:16:06.306Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:16:06.307Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:16:11.670Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:16:11.735Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:16:11.737Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:16:11.807Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:16:12.655Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:16:12.656Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:16:12.726Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:16:12.727Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:16:12.730Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:16:12.732Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:16:12.795Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:16:12.799Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:16:34.664Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:16:34.666Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:16:34.729Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:16:34.732Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:16:34.736Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:16:34.738Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:16:34.800Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:16:34.806Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:17:35.280Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:17:35.284Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:17:35.417Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:17:35.419Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:17:35.421Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:17:35.424Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:17:35.491Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:17:35.494Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:20:04.900Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:20:04.901Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:20:04.970Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:20:04.973Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:20:04.977Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:20:04.980Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:20:05.044Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:20:05.049Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:20:05.443Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:20:05.446Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:20:05.515Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:20:05.516Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:20:05.517Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:20:05.519Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:20:05.583Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:20:05.586Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:22:48.021Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:22:48.023Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:22:48.088Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:22:48.090Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:22:48.092Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:22:48.094Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:22:48.158Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:22:48.164Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:23:09.041Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:23:09.043Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:23:09.110Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:23:09.112Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:23:09.114Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:23:09.117Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:23:09.235Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:23:09.237Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:23:35.044Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:23:35.115Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:24:17.874Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:24:17.942Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:24:24.034Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:24:24.103Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:24:31.040Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:24:31.106Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:25:27.036Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:25:27.105Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:25:30.077Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:25:30.144Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:25:30.147Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:25:30.217Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:25:31.275Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:25:31.277Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:25:31.343Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:25:31.345Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:25:31.347Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:25:31.349Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:25:31.413Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:25:31.417Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:27:36.032Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:27:36.106Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:28:34.038Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:28:34.040Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:28:34.106Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:28:34.108Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:28:34.109Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:28:34.176Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:28:45.667Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:28:45.739Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:28:45.741Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:28:45.815Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:28:46.793Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:28:46.795Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:28:46.863Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:28:46.866Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:28:46.867Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:28:46.870Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:28:46.932Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:28:46.934Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:29:25.911Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:29:25.982Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:29:27.316Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:29:27.353Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:29:27.355Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:29:27.399Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:32:01.317Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:32:01.319Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:32:01.387Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:32:01.388Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:32:01.389Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:32:01.391Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:32:01.459Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:32:01.460Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:32:02.856Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:32:02.923Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:32:02.925Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:32:02.993Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:32:05.188Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:32:05.220Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:32:05.222Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:32:05.256Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:32:06.109Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:32:06.178Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:33:31.595Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:33:31.598Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:33:31.668Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:33:31.670Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:33:31.671Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:33:31.673Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:33:31.743Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:33:31.746Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:33:32.361Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:33:32.432Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:33:32.435Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:33:32.502Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:33:33.575Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:33:33.576Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:33:33.644Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:33:33.646Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:33:33.648Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:33:33.650Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:33:33.718Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:33:33.719Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:33:34.192Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:33:34.257Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:33:34.260Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:33:34.327Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:33:52.907Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:33:52.940Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:33:52.942Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:33:52.975Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:42:08.574Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:42:08.610Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:42:08.612Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:42:08.647Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:42:09.566Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:42:09.631Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:42:10.060Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:42:10.093Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:42:10.095Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:42:10.133Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:42:11.538Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:42:11.607Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:42:11.609Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:42:11.678Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:42:12.440Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:42:12.441Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:42:12.516Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:42:12.518Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:42:12.519Z [32minfo[39m: Received request to get all food charts
+2025-01-11T12:42:12.521Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:42:12.602Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:42:12.603Z [32minfo[39m: Food Charts fetched successfully
+2025-01-11T12:42:38.124Z [32minfo[39m: Received login request with email: hospital_pantry@xyz.com
+2025-01-11T12:42:38.222Z [32minfo[39m: Login successful
+2025-01-11T12:42:46.150Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:42:46.185Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:42:46.187Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:42:46.220Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:42:49.880Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:42:49.949Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:42:49.952Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:42:50.034Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:44:41.435Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:44:41.551Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:44:41.553Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:44:41.621Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:44:43.155Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:44:43.221Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:44:43.223Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:44:43.288Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:45:09.834Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:45:09.871Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:45:09.874Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:45:09.909Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:45:22.137Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:45:22.175Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:45:22.177Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:45:22.211Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:45:39.145Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:45:39.216Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:45:39.218Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:45:39.283Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:45:43.673Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:45:43.710Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:45:43.712Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:45:43.746Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:46:28.313Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:46:28.384Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:46:28.387Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:46:28.425Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:46:30.235Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:46:30.303Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:46:30.305Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:46:30.374Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:46:31.828Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:46:31.861Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:46:31.863Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T12:46:31.898Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T12:47:15.181Z [32minfo[39m: Received login request with email: hospital_delivery@xyz.com
+2025-01-11T12:47:15.279Z [32minfo[39m: Login successful
+2025-01-11T12:47:18.547Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:47:18.618Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:47:18.620Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:47:18.689Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:47:19.878Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:47:19.963Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:47:22.051Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:47:22.131Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:47:23.917Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:47:24.002Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T12:47:26.117Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:47:26.185Z [32minfo[39m: Patients fetched successfully
+2025-01-11T12:47:26.187Z [32minfo[39m: Received request to get all patients
+2025-01-11T12:47:26.280Z [32minfo[39m: Patients fetched successfully

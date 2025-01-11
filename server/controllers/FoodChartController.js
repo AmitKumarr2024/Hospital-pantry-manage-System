@@ -13,11 +13,11 @@ export const createFoodChart = async (req, res) => {
       specialInstructions,
     } = req.body;
 
-    logger.debug("Received request to create food chart:", req.body);
+    logger.info("Received request to create food chart:", req.body);
 
     // Validate patientId
     if (!mongoose.Types.ObjectId.isValid(patientId)) {
-      logger.debug("Invalid Patient ID:", patientId);
+      logger.info("Invalid Patient ID:", patientId);
       return res
         .status(400)
         .json({ message: "Invalid Patient ID", error: true });
@@ -26,7 +26,7 @@ export const createFoodChart = async (req, res) => {
     // Check if the patient exists
     const patient = await Patient.findById(patientId);
     if (!patient) {
-      logger.debug("Patient not found with id:", patientId);
+      logger.info("Patient not found with id:", patientId);
       return res
         .status(404)
         .json({ message: "Patient not found", error: true });
@@ -42,7 +42,7 @@ export const createFoodChart = async (req, res) => {
     });
 
     await newFoodChart.save();
-    logger.debug("Food Chart created successfully:", newFoodChart);
+    logger.info("Food Chart created successfully:", newFoodChart);
 
     res.status(201).json({
       message: "Food Chart created successfully",
@@ -67,18 +67,18 @@ export const updateFoodChart = async (req, res) => {
       specialInstructions,
     } = req.body;
 
-    logger.debug("Received request to update food chart with id:", id);
-    logger.debug("Update data received:", req.body);
+    logger.info("Received request to update food chart with id:", id);
+    logger.info("Update data received:", req.body);
 
     const foodChart = await FoodChart.findById(id);
     if (!foodChart) {
-      logger.debug("Food Chart not found with id:", id);
+      logger.info("Food Chart not found with id:", id);
       return res
         .status(404)
         .json({ message: "Food Chart not found", error: true });
     }
 
-    logger.debug("Food Chart found:", foodChart);
+    logger.info("Food Chart found:", foodChart);
 
     // Update food chart details
     foodChart.patientId = patientId || foodChart.patientId;
@@ -89,7 +89,7 @@ export const updateFoodChart = async (req, res) => {
       specialInstructions || foodChart.specialInstructions;
 
     await foodChart.save();
-    logger.debug("Food Chart updated successfully:", foodChart);
+    logger.info("Food Chart updated successfully:", foodChart);
 
     res.status(200).json({
       message: "Food Chart updated successfully",
@@ -107,22 +107,22 @@ export const deleteFoodChart = async (req, res) => {
   try {
     const { id } = req.params;
 
-    logger.debug("Received request to delete food chart with id:", id);
+    logger.info("Received request to delete food chart with id:", id);
 
     // Check if the food chart exists
     const foodChart = await FoodChart.findById(id);
     if (!foodChart) {
-      logger.debug("Food Chart not found with id:", id);
+      logger.info("Food Chart not found with id:", id);
       return res
         .status(404)
         .json({ message: "Food Chart not found", error: true });
     }
 
-    logger.debug("Food Chart found:", foodChart);
+    logger.info("Food Chart found:", foodChart);
 
     // Delete the food chart
     await FoodChart.deleteOne({ _id: id });
-    logger.debug("Food Chart deleted successfully with id:", id);
+    logger.info("Food Chart deleted successfully with id:", id);
 
     res.status(200).json({
       message: "Food Chart deleted successfully",
@@ -137,10 +137,10 @@ export const deleteFoodChart = async (req, res) => {
 // Get all food charts
 export const getAllFoodCharts = async (req, res) => {
   try {
-    logger.debug("Received request to get all food charts");
+    logger.info("Received request to get all food charts");
 
     const foodCharts = await FoodChart.find().populate("patientId");
-    logger.debug("Food Charts fetched successfully");
+    logger.info("Food Charts fetched successfully");
 
     res.status(200).json({
       message: "Food Charts fetched successfully",
@@ -157,17 +157,17 @@ export const getAllFoodCharts = async (req, res) => {
 export const getFoodChartById = async (req, res) => {
   try {
     const { id } = req.params;
-    logger.debug("Received request to get food chart with id:", id);
+    logger.info("Received request to get food chart with id:", id);
 
     const foodChart = await FoodChart.findById(id).populate("patientId");
     if (!foodChart) {
-      logger.debug("Food Chart not found with id:", id);
+      logger.info("Food Chart not found with id:", id);
       return res
         .status(404)
         .json({ message: "Food Chart not found", error: true });
     }
 
-    logger.debug("Food Chart fetched successfully:", foodChart);
+    logger.info("Food Chart fetched successfully:", foodChart);
 
     res.status(200).json({
       message: "Food Chart fetched successfully",

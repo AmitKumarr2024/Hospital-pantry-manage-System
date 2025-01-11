@@ -7,12 +7,12 @@ export const createDelivery = async (req, res) => {
   try {
     const { deliveryPerson, patientId, roomDetails, notes } = req.body;
 
-    logger.debug("Received request to create delivery:", req.body);
+    logger.info("Received request to create delivery:", req.body);
 
     // Check if patient exists
     const patient = await Patient.findById(patientId);
     if (!patient) {
-      logger.debug("Patient not found with id:", patientId);
+      logger.info("Patient not found with id:", patientId);
       return res
         .status(404)
         .json({ message: "Patient not found", error: true });
@@ -27,7 +27,7 @@ export const createDelivery = async (req, res) => {
     });
 
     await newDelivery.save();
-    logger.debug("Delivery created successfully:", newDelivery);
+    logger.info("Delivery created successfully:", newDelivery);
 
     res.status(201).json({
       message: "Delivery created successfully",
@@ -46,13 +46,13 @@ export const getAllDeliveries = async (req, res) => {
     const deliveries = await Delivery.find().populate("patientId");
 
     if (deliveries.length === 0) {
-      logger.debug("No deliveries found");
+      logger.info("No deliveries found");
       return res
         .status(404)
         .json({ message: "No deliveries found", error: true });
     }
 
-    logger.debug("Deliveries fetched successfully");
+    logger.info("Deliveries fetched successfully");
     res.status(200).json({ deliveries });
   } catch (error) {
     logger.error("Error fetching deliveries", error.message);
@@ -64,18 +64,18 @@ export const getAllDeliveries = async (req, res) => {
 export const getSingleDelivery = async (req, res) => {
   try {
     const { id } = req.params;
-    logger.debug("Received request to fetch single delivery with id:", id);
+    logger.info("Received request to fetch single delivery with id:", id);
 
     const delivery = await Delivery.findById(id);
 
     if (!delivery) {
-      logger.debug("Delivery not found with id:", id);
+      logger.info("Delivery not found with id:", id);
       return res
         .status(404)
         .json({ message: "Delivery not found", error: true });
     }
 
-    logger.debug("Delivery fetched successfully:", delivery);
+    logger.info("Delivery fetched successfully:", delivery);
     res.status(200).json({ delivery });
   } catch (error) {
     logger.error("Error fetching delivery", error.message);
@@ -87,23 +87,23 @@ export const getSingleDelivery = async (req, res) => {
 export const updateDeliveryStatus = async (req, res) => {
   try {
     const { id } = req.params;
-    logger.debug("Received request to update delivery status for id:", id);
+    logger.info("Received request to update delivery status for id:", id);
 
     const { deliveryPerson, status, deliveryTime, roomDetails, notes } =
       req.body;
-    logger.debug("Update data received:", req.body);
+    logger.info("Update data received:", req.body);
 
     // Find the delivery record
     const delivery = await Delivery.findById(id);
 
     if (!delivery) {
-      logger.debug("Delivery not found with id:", id);
+      logger.info("Delivery not found with id:", id);
       return res
         .status(404)
         .json({ message: "Delivery not found", error: true });
     }
 
-    logger.debug("Delivery found:", delivery);
+    logger.info("Delivery found:", delivery);
 
     // Update delivery details
     delivery.deliveryPerson = deliveryPerson || delivery.deliveryPerson;
@@ -113,7 +113,7 @@ export const updateDeliveryStatus = async (req, res) => {
     delivery.notes = notes || delivery.notes;
 
     await delivery.save();
-    logger.debug("Delivery status updated successfully:", delivery);
+    logger.info("Delivery status updated successfully:", delivery);
 
     res.status(200).json({
       message: "Delivery status updated successfully",
@@ -130,19 +130,19 @@ export const updateDeliveryStatus = async (req, res) => {
 export const deleteDelivery = async (req, res) => {
   try {
     const { id } = req.params;
-    logger.debug("Received request to delete delivery with id:", id);
+    logger.info("Received request to delete delivery with id:", id);
 
     // Find and delete the delivery record
     const delivery = await Delivery.findByIdAndDelete(id);
 
     if (!delivery) {
-      logger.debug("Delivery not found with id:", id);
+      logger.info("Delivery not found with id:", id);
       return res
         .status(404)
         .json({ message: "Delivery not found", error: true });
     }
 
-    logger.debug("Delivery deleted successfully with id:", id);
+    logger.info("Delivery deleted successfully with id:", id);
     res.status(200).json({
       message: "Delivery deleted successfully",
       success: true,

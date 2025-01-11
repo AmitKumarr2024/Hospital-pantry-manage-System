@@ -10,9 +10,9 @@ import {
 import checkManagerRole from "../middlewares/checkManagerRole .js";
 
 router.post("/create-food-chart", createFoodChart);
-router.put("/update-food-chart/:id", checkManagerRole, updateFoodChart);
-router.delete("/delete-food-chart/:id", checkManagerRole, deleteFoodChart);
-router.get("/all-food-charts", checkManagerRole, getAllFoodCharts);
-router.get("/single-foodChart/:id", checkManagerRole, getFoodChartById);
+router.put("/update-food-chart/:id", updateFoodChart);
+router.delete("/delete-food-chart/:id",deleteFoodChart);
+router.get("/all-food-charts",  getAllFoodCharts);
+router.get("/single-foodChart/:id",getFoodChartById);
 
 export default router;
