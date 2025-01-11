@@ -3291,3 +3291,15 @@
 2025-01-11T18:15:02.074Z [32minfo[39m: Server started at port: 6002
 2025-01-11T18:15:27.134Z [32minfo[39m: Server started at port: 6002
 2025-01-11T18:18:07.510Z [32minfo[39m: Server started at port: 6002
+2025-01-11T18:24:19.668Z [32minfo[39m: Received login request with email: hospital_manager@xyz.com
+2025-01-11T18:24:19.776Z [32minfo[39m: Login successful
+2025-01-11T18:24:23.209Z [32minfo[39m: Received request to get all patients
+2025-01-11T18:24:23.287Z [32minfo[39m: Patients fetched successfully
+2025-01-11T18:24:23.290Z [32minfo[39m: Received request to get all patients
+2025-01-11T18:24:23.359Z [32minfo[39m: Patients fetched successfully
+2025-01-11T18:24:25.206Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T18:24:25.249Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T18:24:25.256Z [32minfo[39m: Received request to get all pantry items
+2025-01-11T18:24:25.309Z [32minfo[39m: Pantry items retrieved successfully
+2025-01-11T18:24:28.873Z [32minfo[39m: Deliveries fetched successfully
+2025-01-11T18:24:28.947Z [32minfo[39m: Deliveries fetched successfully
