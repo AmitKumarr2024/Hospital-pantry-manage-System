@@ -13,6 +13,7 @@ const CreateFoodChart = () => {
     specialInstructions: "No salt in evening meal",
   });
 
+  // Form submission handler
   const handleSubmit = async (event) => {
     event.preventDefault();
     await createFoodChart(foodChartData);
@@ -27,7 +28,7 @@ const CreateFoodChart = () => {
   }
 
   return (
-    <div className="max-w-lg mx-auto p-6 bg-white rounded-lg shadow-md">
+    <div className="max-w-lg mx-auto p-6">
       <h2 className="text-3xl font-semibold text-center text-gray-800 mb-6">
         Create Food Chart
       </h2>
@@ -123,6 +124,7 @@ const CreateFoodChart = () => {
           />
         </div>
 
+        {/* Submit Button */}
         <button
           type="submit"
           className="w-full p-3 bg-blue-600 text-white font-semibold rounded-md hover:bg-blue-700 transition-colors"
@@ -131,6 +133,7 @@ const CreateFoodChart = () => {
         </button>
       </form>
 
+      {/* Display success message */}
       {message && <p className="text-green-600 mt-4 text-center">{message}</p>}
     </div>
   );

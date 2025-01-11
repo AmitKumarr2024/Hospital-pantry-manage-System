@@ -10,6 +10,7 @@ const ViewPantryItems = () => {
 
   const { pantryItems, isLoading, error, refetch } = useAllPantryItems();
 
+  // Dispatch pantry items to the redux store when data is fetched
   useEffect(() => {
     if (pantryItems.length) {
       dispatch(setPantryItems(pantryItems));
@@ -18,12 +19,15 @@ const ViewPantryItems = () => {
 
   return (
     <div className="p-6 bg-gray-200 w-full">
+      {/* Display loading message while fetching pantry items */}
       {isLoading && (
         <p className="text-center text-gray-500">Loading pantry items...</p>
       )}
+      {/* Display error message if any error occurs */}
       {error && (
         <p className="text-center text-red-500 font-semibold">{error}</p>
       )}
+      {/* Display pantry items if no loading or error */}
       {!isLoading && !error && (
         <div>
           {pantryItems.length === 0 ? (
@@ -98,8 +102,8 @@ const ViewPantryItems = () => {
                       </p>
                     )}
                   </div>
+                  {/* Button to update pantry item */}
                   <UpdatePantryItemComponent id={item._id} />
-                  {/* Button to open update modal */}
                 </div>
               ))}
             </div>

@@ -16,7 +16,7 @@ const useAllPantryItems = () => {
           method: "GET",
           headers: {
             "Content-Type": "application/json",
-            Authorization: `Bearer ${localStorage.getItem("token")}`,
+            Authorization: `Bearer ${localStorage.getItem("token")}`, // Attach authorization token
           },
         }
       );
@@ -28,7 +28,7 @@ const useAllPantryItems = () => {
 
       const responseData = await response.json();
 
-      // Accessing the 'data' array to get pantry item details
+      // Ensure response contains an array of pantry items
       if (Array.isArray(responseData.data)) {
         setPantryItems(responseData.data);
       } else {
@@ -36,15 +36,14 @@ const useAllPantryItems = () => {
         setError("Unexpected data format. Expected an array in 'data'.");
       }
     } catch (err) {
-      console.error("Error fetching pantry items:", err.message);
-      setError(err.message);
+      setError(err.message); // Handle errors from fetch or parsing
     } finally {
-      setIsLoading(false);
+      setIsLoading(false); // Stop loading state after completion
     }
   };
 
   useEffect(() => {
-    fetchAllPantryItems();
+    fetchAllPantryItems(); // Fetch pantry items when hook is mounted
   }, []);
 
   return { pantryItems, isLoading, error, refetch: fetchAllPantryItems };

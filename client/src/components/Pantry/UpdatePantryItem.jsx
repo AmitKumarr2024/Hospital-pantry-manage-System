@@ -15,6 +15,7 @@ const UpdatePantryItemComponent = ({ id }) => {
     ],
   });
 
+  // Handle task status change
   const handleStatusChange = (e) => {
     const newStatus = e.target.value;
     setUpdatedData((prevData) => ({
@@ -27,6 +28,7 @@ const UpdatePantryItemComponent = ({ id }) => {
     }));
   };
 
+  // Submit the updated data
   const handleSubmit = (e) => {
     e.preventDefault();
     updatePantryItem(updatedData);

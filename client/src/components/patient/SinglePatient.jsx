@@ -2,8 +2,10 @@ import React from "react";
 import useSinglePatient from "../../hooks/patient/useSinglePatient";
 
 const SinglePatient = ({ id }) => {
+  // Fetch patient data using the custom hook
   const { patient, isLoading, error } = useSinglePatient(id);
 
+  // Display a loading state while data is being fetched
   if (isLoading) {
     return (
       <div className="flex justify-center items-center h-24">
@@ -12,6 +14,7 @@ const SinglePatient = ({ id }) => {
     );
   }
 
+  // Display an error message if data fetching fails
   if (error) {
     return (
       <div className="flex justify-center items-center h-24">
@@ -20,6 +23,7 @@ const SinglePatient = ({ id }) => {
     );
   }
 
+  // Show a message if no patient data is found
   if (!patient) {
     return (
       <div className="flex justify-center items-center h-24">
@@ -30,7 +34,10 @@ const SinglePatient = ({ id }) => {
 
   return (
     <div className="bg-white rounded-lg shadow-lg p-6 w-full max-w-4xl mx-auto mt-8">
-      <h3 className="text-3xl font-bold text-center text-purple-700 mb-6">Patient Details</h3>
+      {/* Display patient details */}
+      <h3 className="text-3xl font-bold text-center text-purple-700 mb-6">
+        Patient Details
+      </h3>
       <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-2 gap-6">
         <div>
           <h4 className="font-semibold text-gray-700">Name:</h4>
@@ -66,6 +73,7 @@ const SinglePatient = ({ id }) => {
         </div>
       </div>
 
+      {/* Display the patient's diet chart, if available */}
       {patient.dietChart && (
         <div className="mt-6 bg-gray-50 p-4 rounded-lg shadow-md">
           <h4 className="text-xl font-semibold text-purple-700 mb-4">Diet Chart</h4>

@@ -6,8 +6,8 @@ const Dashboard = () => {
   const links = [
     { path: "create-new-patient", label: "Create New Patient" },
     { path: "patient-list", label: "Patient List" },
-    { path: "pantry-Assign", label: "Pantry Assign Operation" },
-    { path: "pantry-order", label: "Pantry Order" },
+    { path: "pantry-Assign", label: "Add Pantry Item" },
+    { path: "pantry-order", label: "All Pantry Order" },
     { path: "delivery-Order", label: "Delivery-Order" },
   ];
 

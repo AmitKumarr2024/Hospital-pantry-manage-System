@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import { toast } from "react-hot-toast"; // Import toast
+import { toast } from "react-hot-toast"; // For displaying toast notifications
 import useLogout from "../hooks/user/useLogout";
 
 const LogoutButton = () => {
@@ -11,12 +11,10 @@ const LogoutButton = () => {
     await logout();
 
     if (isSuccess) {
-      // Show success toast and redirect to login page after successful logout
-      toast.success("Logged out successfully!");
-      navigate("/login");
+      toast.success("Logged out successfully!"); // Notify user of successful logout
+      navigate("/login"); // Redirect to login page
     } else if (error) {
-      // Show error toast if there was an error during logout
-      toast.error(error || "An error occurred while logging out.");
+      toast.error(error || "An error occurred while logging out."); // Notify user of logout error
     }
   };
 
@@ -25,7 +23,7 @@ const LogoutButton = () => {
       <button
         className="font-bold text-2xl"
         onClick={handleLogout}
-        disabled={isLoading}
+        disabled={isLoading} // Disable button while logout is in progress
       >
         Logout
       </button>

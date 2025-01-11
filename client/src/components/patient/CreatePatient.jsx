@@ -4,7 +4,8 @@ import useAllFoodCharts from "../../hooks/foodChart/useAllFoodCharts";
 import CreateFoodChart from "../foodchart/CreateFoodChart";
 
 const CreatePatient = () => {
-  const { createPatient, isLoading, error, successMessage } = useCreatePatient();
+  const { createPatient, isLoading, error, successMessage } =
+    useCreatePatient();
   const { foodCharts } = useAllFoodCharts();
 
   const [patientData, setPatientData] = useState({
@@ -16,20 +17,22 @@ const CreatePatient = () => {
     allergies: "Peanuts",
     disease: "Diabetes",
     room: "101A",
-    dietChartId: "", // Initially empty, will be populated by the select option
+    dietChartId: "6782a8b2440d502c4917d0c3", // Stores the selected diet chart ID
   });
 
+  // Handles changes in the form inputs
   const handleChange = (e) => {
     const { name, value } = e.target;
     setPatientData({ ...patientData, [name]: value });
   };
 
+  // Submits the form to create a new patient
   const handleSubmit = () => {
     createPatient(patientData);
   };
 
   return (
-    <div className="bg-gray-100 p-6 rounded-lg shadow-lg max-w-full mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div className=" p-6 rounded-lg shadow-lg max-w-full mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
       <div className="col-span-1">
         <h2 className="text-2xl font-bold text-center text-purple-700 mb-6">
           Create Patient
@@ -44,7 +47,7 @@ const CreatePatient = () => {
         )}
 
         <form className="space-y-4 w-full">
-          {/* Form Fields */}
+          {/* Basic details section */}
           <div className="flex flex-col md:flex-row md:space-x-4 w-full">
             <div className="flex-1 w-full">
               <label htmlFor="name" className="font-semibold text-gray-700">
@@ -75,6 +78,7 @@ const CreatePatient = () => {
             </div>
           </div>
 
+          {/* Contact and emergency contact section */}
           <div className="flex flex-col md:flex-row md:space-x-4 w-full">
             <div className="flex-1 w-full">
               <label htmlFor="gender" className="font-semibold text-gray-700">
@@ -105,36 +109,7 @@ const CreatePatient = () => {
             </div>
           </div>
 
-          <div className="flex flex-col md:flex-row md:space-x-4 w-full">
-            <div className="flex-1 w-full">
-              <label htmlFor="emergencyContact" className="font-semibold text-gray-700">
-                Emergency Contact:
-              </label>
-              <input
-                id="emergencyContact"
-                type="text"
-                name="emergencyContact"
-                value={patientData.emergencyContact}
-                onChange={handleChange}
-                className="mt-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-purple-500 w-full"
-              />
-            </div>
-
-            <div className="flex-1 w-full">
-              <label htmlFor="allergies" className="font-semibold text-gray-700">
-                Allergies:
-              </label>
-              <input
-                id="allergies"
-                type="text"
-                name="allergies"
-                value={patientData.allergies}
-                onChange={handleChange}
-                className="mt-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-purple-500 w-full"
-              />
-            </div>
-          </div>
-
+          {/* Allergies and room section */}
           <div className="flex flex-col md:flex-row md:space-x-4 w-full">
             <div className="flex-1 w-full">
               <label htmlFor="disease" className="font-semibold text-gray-700">
@@ -165,9 +140,13 @@ const CreatePatient = () => {
             </div>
           </div>
 
+          {/* Diet chart dropdown */}
           <div className="flex flex-col md:flex-row md:space-x-4 w-full">
             <div className="flex-1 w-full">
-              <label htmlFor="dietChartId" className="font-semibold text-gray-700">
+              <label
+                htmlFor="dietChartId"
+                className="font-semibold text-gray-700"
+              >
                 Diet Chart:
               </label>
 
@@ -180,13 +159,14 @@ const CreatePatient = () => {
                 <option value="">Select a diet chart</option>
                 {foodCharts.map((item) => (
                   <option key={item._id} value={item._id}>
-                    {item.patientId.name || "Unnamed Diet Chart"}
+                    {item?.patientId?.name || "Unnamed Diet Chart"}
                   </option>
                 ))}
               </select>
             </div>
           </div>
 
+          {/* Submit button */}
           <div className="flex justify-center mt-6 w-full">
             <button
               type="button"
@@ -200,6 +180,7 @@ const CreatePatient = () => {
         </form>
       </div>
 
+      {/* Section to create a new food chart */}
       <div className="col-span-1">
         <CreateFoodChart />
       </div>

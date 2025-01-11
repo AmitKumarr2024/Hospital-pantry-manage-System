@@ -12,10 +12,12 @@ const UpdateFoodChart = () => {
 
   const { updateFoodChart, isLoading, error, message } = useUpdateFoodChart("677f7e45234f0c852939eab8"); // Example food chart ID
 
+  // Handle food chart data updates
   const handleUpdate = async () => {
     await updateFoodChart(foodChartData);
   };
 
+  // Handle form input changes
   const handleChange = (e) => {
     setFoodChartData({
       ...foodChartData,
@@ -23,10 +25,12 @@ const UpdateFoodChart = () => {
     });
   };
 
+  // Show loading indicator while updating
   if (isLoading) {
     return <p>Loading...</p>;
   }
 
+  // Display error message if update fails
   if (error) {
     return <p style={{ color: "red" }}>{error}</p>;
   }
@@ -72,6 +76,7 @@ const UpdateFoodChart = () => {
 
       <button onClick={handleUpdate}>Update Food Chart</button>
 
+      {/* Display success message after successful update */}
       {message && <p>{message}</p>}
     </div>
   );

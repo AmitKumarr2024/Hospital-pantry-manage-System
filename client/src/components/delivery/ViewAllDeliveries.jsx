@@ -42,12 +42,14 @@ const ViewAllDeliveries = () => {
 
       {deliveries.length > 0 && !isLoading && !error ? (
         <>
+          {/* Display deliveries in grid layout */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-6">
             {currentRows.map((delivery) => (
               <div
                 key={delivery._id}
                 className="p-4 bg-white rounded-lg shadow hover:shadow-lg transition-shadow"
               >
+                {/* Display delivery details */}
                 <h3 className="text-lg font-semibold mb-3 text-gray-700">
                   Delivery Info
                 </h3>
@@ -88,6 +90,7 @@ const ViewAllDeliveries = () => {
             ))}
           </div>
 
+          {/* Pagination controls */}
           <div className="flex justify-between items-center">
             <button
               onClick={handlePrevPage}

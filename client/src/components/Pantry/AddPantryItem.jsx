@@ -1,36 +1,62 @@
 import React, { useState } from "react";
 import usePantry from "../../hooks/pantry/useCreatePantry";
+import { toast } from "react-hot-toast"; // Import react-hot-toast
 
 const AddPantryItem = () => {
   const { addPantryItem, isLoading, error, data } = usePantry();
   const [formData, setFormData] = useState({
-    staffName: "Monty Kumar",
-    contact: "1234567890",
-    location: "Pantry Room 2",
-    assignedTasks: [{ task: "Restock Items", status: "Pending" }],
+    staffName: "",
+    contact: "",
+    location: "",
+    assignedTasks: [{ task: "", status: "Pending" }],
     pantryItems: [
       {
-        name: "Brinjal",
-        quantity: 50,
-        category: "Vegetable",
-        expiryDate: "2025-01-01",
-        unit: "Kg",
-        supplier: "EFG Supplies",
-        storageLocation: "Shelf C",
+        name: "",
+        quantity: "",
+        category: "",
+        expiryDate: "",
+        unit: "",
+        supplier: "",
+        storageLocation: "",
       },
     ],
   });
 
+  // Handle form input change for both pantry items and tasks
   const handleChange = (e, index, field, type) => {
     const updated = [...formData[type]];
     updated[index][field] = e.target.value;
     setFormData({ ...formData, [type]: updated });
   };
 
+  // Submit form data to add pantry item
   const handleSubmit = async (e) => {
     e.preventDefault();
-    await addPantryItem(formData);
-    if (data) alert("Pantry item added successfully!");
+    const response = await addPantryItem(formData);
+
+    // Show success or error toast based on the response
+    if (response && response.success) {
+      toast.success("Pantry item added successfully!"); // Success toast
+      setFormData({
+        staffName: "",
+        contact: "",
+        location: "",
+        assignedTasks: [{ task: "", status: "Pending" }],
+        pantryItems: [
+          {
+            name: "",
+            quantity: "",
+            category: "",
+            expiryDate: "",
+            unit: "",
+            supplier: "",
+            storageLocation: "",
+          },
+        ],
+      });
+    } else {
+      toast.error("Failed to add pantry item."); // Error toast
+    }
   };
 
   return (
@@ -56,6 +82,7 @@ const AddPantryItem = () => {
                 onChange={(e) =>
                   setFormData({ ...formData, [field]: e.target.value })
                 }
+                placeholder={`Enter ${field.replace(/([A-Z])/g, " $1")}`}
                 className="w-full p-3 border border-gray-300 rounded-md"
                 required
               />
@@ -100,6 +127,7 @@ const AddPantryItem = () => {
                       onChange={(e) =>
                         handleChange(e, index, field, "assignedTasks")
                       }
+                      placeholder={`Enter ${field}`}
                       className="w-full p-3 border border-gray-300 rounded-md"
                       required
                     />
@@ -140,6 +168,7 @@ const AddPantryItem = () => {
                     onChange={(e) =>
                       handleChange(e, index, field, "pantryItems")
                     }
+                    placeholder={`Enter ${field.replace(/([A-Z])/g, " $1")}`}
                     className="w-full p-3 border border-gray-300 rounded-md"
                     required
                   />
@@ -160,11 +189,6 @@ const AddPantryItem = () => {
 
       {error && (
         <p className="mt-4 text-red-500 text-center font-medium">{error}</p>
-      )}
-      {data && (
-        <p className="mt-4 text-green-500 text-center font-medium">
-          Pantry item added successfully!
-        </p>
       )}
     </div>
   );

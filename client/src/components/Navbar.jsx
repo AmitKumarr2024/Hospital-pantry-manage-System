@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import toast, { Toaster } from "react-hot-toast";
 import { Link, useNavigate } from "react-router";
-import useSingleUser from "../hooks/user/useSingleUser";
 import { jwtDecode } from "jwt-decode";
 
 const Navbar = () => {
@@ -9,38 +8,31 @@ const Navbar = () => {
   const navigate = useNavigate();
 
   const oldToken = localStorage.getItem("token");
-  const newToken = jwtDecode(oldToken);
-
-  
+  const newToken = jwtDecode(oldToken); // Decode token to get user details
 
   useEffect(() => {
-    // Check if token exists in localStorage
     const token = localStorage.getItem("token");
-    setIsLoggedIn(!!token); // Set isLoggedIn to true if token exists
+    setIsLoggedIn(!!token); // Update login status based on token presence
   }, [newToken]);
 
   const handleLogout = () => {
-    // Remove the token from localStorage
-    localStorage.removeItem("token");
+    localStorage.removeItem("token"); // Clear user session by removing token
     setIsLoggedIn(false);
-    toast.success("Successfully logged out!");
-    console.log("Logged out");
-    navigate("/login");
+    toast.success("Successfully logged out!"); // Notify user of successful logout
+    navigate("/login"); // Redirect user to login page
   };
 
   return (
     <div className="w-full mx-auto px-4 sm:px-8 md:px-16 flex items-center justify-between py-2 bg-slate-200">
       <div>
         <Link className="text-lg font-bold bg-orange-100 p-2 rounded-full tracking-wider">
-          Hospital <span className="text-red-500 font-extrabold">Pantry</span>{" "}
-          System
+          Hospital <span className="text-red-500 font-extrabold">Pantry</span> System
         </Link>
       </div>
       <p className="text-base">
         Role:{" "}
-        <span className=" text-2xl font-extrabold text-green-400">
-          {" "}
-          {newToken.role}
+        <span className="text-2xl font-extrabold text-green-400">
+          {newToken.role} {/* Display user role decoded from the token */}
         </span>
       </p>
       <div className="hidden md:block">
@@ -51,7 +43,7 @@ const Navbar = () => {
           Logout
         </button>
       </div>
-      {/* Mobile view */}
+      {/* Mobile view logout button */}
       <div className="md:hidden">
         <button
           onClick={handleLogout}

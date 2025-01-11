@@ -11,7 +11,7 @@ const CreateDelivery = () => {
 
   const { createDelivery, isLoading, error, deliveryData } = useCreateDelivery();
 
-  // Set default delivery person and patientId when patients are loaded
+  // Set default patientId when patients are loaded
   useEffect(() => {
     if (patients && patients.length > 0) {
       setPatientId(patients[0]._id);
@@ -33,7 +33,7 @@ const CreateDelivery = () => {
       <h2 className="text-2xl font-bold mb-6 text-center">Create Delivery</h2>
 
       <form className="space-y-6">
-        {/* Delivery Person - Text Input */}
+        {/* Input for Delivery Person */}
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-2">
             Delivery Person
@@ -47,7 +47,7 @@ const CreateDelivery = () => {
           />
         </div>
 
-        {/* Patient Select */}
+        {/* Dropdown for Select Patient */}
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-2">
             Select Patient
@@ -69,7 +69,7 @@ const CreateDelivery = () => {
           </select>
         </div>
 
-        {/* Room Details */}
+        {/* Input for Room Details */}
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-2">
             Room Details
@@ -83,7 +83,7 @@ const CreateDelivery = () => {
           />
         </div>
 
-        {/* Notes */}
+        {/* Input for Notes */}
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-2">
             Notes

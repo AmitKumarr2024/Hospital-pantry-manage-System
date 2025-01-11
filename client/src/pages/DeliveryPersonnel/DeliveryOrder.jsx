@@ -23,7 +23,7 @@ const DeliveryOrder = () => {
 
     if (status === "Assigned") acc[deliveryPerson].assigned += 1;
     else if (status === "Delivered") acc[deliveryPerson].delivered += 1;
-    else if (status === "Canceled") acc[deliveryPerson].canceled += 1;
+    else if (status === "Cancel") acc[deliveryPerson].canceled += 1;
 
     return acc;
   }, {});

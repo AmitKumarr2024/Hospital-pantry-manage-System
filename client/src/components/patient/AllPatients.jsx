@@ -6,29 +6,24 @@ import { setPatientItems } from "../../redux/patientSlice";
 
 const AllPatients = () => {
   const dispatch = useDispatch();
-
   const { patients, isLoading, error } = useAllPatients();
 
   const patientSummary = Object.values(patients);
 
-  console.log("patients", patientSummary);
-
-  const [currentPage, setCurrentPage] = useState(1);
+  const [currentPage, setCurrentPage] = useState(1); // Current page state
   const rowsPerPage = 6;
-
   const totalPages = Math.ceil(patientSummary.length / rowsPerPage);
+
   const startIndex = (currentPage - 1) * rowsPerPage;
-  const currentRows = patientSummary.slice(
-    startIndex,
-    startIndex + rowsPerPage
-  );
+  const currentRows = patientSummary.slice(startIndex, startIndex + rowsPerPage); // Patients to display for current page
 
   const handlePrevPage = () => setCurrentPage((prev) => Math.max(prev - 1, 1));
   const handleNextPage = () =>
     setCurrentPage((prev) => Math.min(prev + 1, totalPages));
+
   useEffect(() => {
     if (patients.length) {
-      dispatch(setPatientItems(patients));
+      dispatch(setPatientItems(patients)); // Dispatch patient data to Redux store
     }
   }, [dispatch, patients]);
 
@@ -57,7 +52,7 @@ const AllPatients = () => {
         <p className="text-center text-lg text-gray-500">No patients found.</p>
       ) : (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-2 gap-8">
-          {patients.map((patient) => (
+          {currentRows.map((patient) => ( // Render only the current page's patients
             <Link
               to={`/dashboard/patient-Details/${patient._id}`}
               key={patient._id}

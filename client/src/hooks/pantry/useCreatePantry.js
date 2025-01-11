@@ -14,9 +14,9 @@ const usePantry = () => {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer ${localStorage.getItem("token")}`, // Add token for authentication if required
+          Authorization: `Bearer ${localStorage.getItem("token")}`, // Include authentication token
         },
-        body: JSON.stringify(pantryItem),
+        body: JSON.stringify(pantryItem), // Convert pantry item to JSON format
       });
 
       if (!response.ok) {
@@ -25,14 +25,13 @@ const usePantry = () => {
       }
 
       const responseData = await response.json();
-      setData(responseData);
+      setData(responseData); // Store the response data
 
-      return responseData; // Return response for additional processing if needed
+      return responseData; // Return response for additional processing
     } catch (err) {
-      console.error("Error adding pantry item:", err.message);
-      setError(err.message);
+      setError(err.message); // Handle errors during the request
     } finally {
-      setIsLoading(false);
+      setIsLoading(false); // Stop loading after the request completes
     }
   };
 

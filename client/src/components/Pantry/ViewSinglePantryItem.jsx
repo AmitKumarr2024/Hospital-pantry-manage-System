@@ -9,16 +9,21 @@ const ViewSinglePantryItem = () => {
     <div>
       <h2>View Single Pantry Item</h2>
 
+      {/* Input field to enter item ID */}
       <input
         type="text"
         value={itemId}
         onChange={(e) => setItemId(e.target.value)}
         placeholder="Enter Item ID"
       />
+      {/* Button to fetch pantry item details */}
       <button onClick={refetch}>Fetch Item</button>
 
+      {/* Show loading message while data is being fetched */}
       {isLoading && <p>Loading pantry item...</p>}
+      {/* Show error message if there is an error */}
       {error && <p style={{ color: "red" }}>{error}</p>}
+      {/* Display pantry item details if data is available */}
       {pantryItem && (
         <div>
           <h3>Pantry Item Details</h3>

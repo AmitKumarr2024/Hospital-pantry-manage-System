@@ -1,10 +1,8 @@
 import React, { useState, useEffect } from "react";
 import useUpdatePatient from "../../hooks/patient/useUpdatePatient";
 
-const UpdatePatient = ({id}) => {
-  const [patientId] = useState(id); // Example patient ID
-  
-  
+const UpdatePatient = ({ id }) => {
+  const [patientId] = useState(id); // Patient ID passed as a prop
   const [updatedData, setUpdatedData] = useState({
     name: "",
     age: "",
@@ -17,11 +15,9 @@ const UpdatePatient = ({id}) => {
   });
 
   const { patient, updatePatient, isLoading, error } = useUpdatePatient(patientId);
- 
-  console.log("patient.....",patient);
-  
 
   useEffect(() => {
+    // Populate the form with existing patient details when they are fetched
     if (patient) {
       setUpdatedData({
         name: patient.name || "",
@@ -34,17 +30,18 @@ const UpdatePatient = ({id}) => {
         room: patient.room || "",
       });
     }
-  }, [patient]);  // Runs whenever `patient` changes
-  
+  }, [patient]);
 
   const handleUpdate = async () => {
+    // Trigger patient update and notify the user
     const message = await updatePatient(updatedData);
     if (message) {
-      alert(message); // Notify user
+      alert(message);
     }
   };
 
   const handleChange = (e) => {
+    // Update form values dynamically based on user input
     const { name, value } = e.target;
     setUpdatedData((prevData) => ({
       ...prevData,
@@ -65,6 +62,7 @@ const UpdatePatient = ({id}) => {
       <h2 className="text-3xl font-bold text-center text-purple-700 mb-6">Update Exist Patient</h2>
 
       <form className="space-y-4">
+        {/* Render input fields dynamically for each patient attribute */}
         <div>
           <label htmlFor="name" className="block text-sm font-semibold">Name:</label>
           <input

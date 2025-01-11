@@ -16,9 +16,9 @@ const useUpdatePantryItem = (itemId) => {
           method: "PUT",
           headers: {
             "Content-Type": "application/json",
-            Authorization: `Bearer ${localStorage.getItem("token")}`, // Add token if needed
+            Authorization: `Bearer ${localStorage.getItem("token")}`, // Authorization header with token
           },
-          body: JSON.stringify(updatedData),
+          body: JSON.stringify(updatedData), // Convert update data to JSON format
         }
       );
 
@@ -28,14 +28,11 @@ const useUpdatePantryItem = (itemId) => {
       }
 
       const responseData = await response.json();
-      console.log("responseData", responseData.data);
-
-      setUpdatedItem(responseData.data);
+      setUpdatedItem(responseData.data); // Update state with response data
     } catch (err) {
-      console.error("Error updating pantry item:", err.message);
-      setError(err.message);
+      setError(err.message); // Set error message on failure
     } finally {
-      setIsLoading(false);
+      setIsLoading(false); // End loading state after request
     }
   };
 

@@ -1,4 +1,5 @@
 import { useState } from "react";
+import toast from "react-hot-toast";
 
 const useLogin = () => {
   const [isLoading, setIsLoading] = useState(false);
@@ -19,8 +20,8 @@ const useLogin = () => {
 
       const data = await response.json();
 
-      if (!response.ok) {
-        throw new Error(data.message || "Login failed");
+      if (data.ok) {
+        toast.success(result.message || "Login Successful");
       }
       // Handle login success (e.g., store token or user data in localStorage)
       localStorage.setItem("token", data.data);
@@ -28,7 +29,7 @@ const useLogin = () => {
 
       return data;
     } catch (err) {
-      console.error("Login error:", err.message);
+      toast.error("Login error:", err.message);
       setError(err.message);
     } finally {
       setIsLoading(false);

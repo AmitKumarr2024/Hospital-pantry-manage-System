@@ -49,20 +49,24 @@ const UpdateDelivery = ({ id, refetch }) => {
 
   return (
     <div className="max-w-4xl mx-auto mt-10 p-6 bg-gray-50 rounded-lg shadow-md">
-      {/* React Hot Toast Toaster */}
+      {/* Toast notifications for different states */}
       <Toaster position="top-right" reverseOrder={false} />
 
       <h2 className="text-2xl font-bold mb-6 text-center">Update Delivery</h2>
 
+      {/* Show loading message while updating */}
       {isLoading && <p className="text-center text-blue-500">Loading...</p>}
 
+      {/* Display error message if updating fails */}
       {error && <p className="text-center text-red-500">{error}</p>}
 
+      {/* Show success message once delivery is updated */}
       {successMessage && (
         <p className="text-center text-green-500">{successMessage}</p>
       )}
 
       <div className="space-y-4">
+        {/* Room Details input field */}
         <div>
           <label className="block text-sm font-medium text-gray-700">
             Room Details:
@@ -75,6 +79,7 @@ const UpdateDelivery = ({ id, refetch }) => {
           />
         </div>
 
+        {/* Status select field */}
         <div>
           <label className="block text-sm font-medium text-gray-700">
             Status:
@@ -93,6 +98,7 @@ const UpdateDelivery = ({ id, refetch }) => {
           </select>
         </div>
 
+        {/* Update delivery button */}
         <button
           onClick={handleUpdate}
           disabled={isLoading}
