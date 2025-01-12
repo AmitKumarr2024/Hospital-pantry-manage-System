@@ -3,62 +3,35 @@ import { createBrowserRouter } from "react-router";
 import App from "../App";
 import ProtectedRoute from "../Protected/ProtectedRoute";
 
-// Utility function to simulate delay for demo purposes
-const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
 // Lazy-loaded components
-const Dashboard = lazy(() =>
-  wait(2000).then(() => import("../pages/HospitalManager/Dashboard"))
-);
-const NotFoundPage = lazy(() =>
-  wait(2000).then(() => import("../components/NotFoundPage"))
-);
-const Login = lazy(() => wait(2000).then(() => import("../pages/Login")));
-const Signup = lazy(() => wait(2000).then(() => import("../pages/Signup")));
-const PantryDashboard = lazy(() =>
-  wait(2000).then(() => import("../pages/PantryStaff/PantryDashboard"))
-);
+const Dashboard = lazy(() => import("../pages/HospitalManager/Dashboard"));
+const NotFoundPage = lazy(() => import("../components/NotFoundPage"));
+const Login = lazy(() => import("../pages/Login"));
+const Signup = lazy(() => import("../pages/Signup"));
+const PantryDashboard = lazy(() => import("../pages/PantryStaff/PantryDashboard"));
 const DeliveryDashboard = lazy(() =>
-  wait(2000).then(() => import("../pages/DeliveryPersonnel/DeliveryDashboard"))
+  import("../pages/DeliveryPersonnel/DeliveryDashboard")
 );
-const PatientDetails = lazy(() =>
-  wait(2000).then(() => import("../pages/HospitalManager/PatientDetails"))
-);
+const PatientDetails = lazy(() => import("../pages/HospitalManager/PatientDetails"));
 const CreateNewPatient = lazy(() =>
-  wait(2000).then(() => import("../pages/HospitalManager/CreateNewPatient"))
+  import("../pages/HospitalManager/CreateNewPatient")
 );
-const PatientList = lazy(() =>
-  wait(2000).then(() => import("../pages/HospitalManager/PatientList"))
-);
-const PantryOrder = lazy(() =>
-  wait(2000).then(() => import("../pages/HospitalManager/PantryOrder"))
-);
+const PatientList = lazy(() => import("../pages/HospitalManager/PatientList"));
+const PantryOrder = lazy(() => import("../pages/HospitalManager/PantryOrder"));
 const AssignedDeliveries = lazy(() =>
-  wait(2000).then(() => import("../pages/DeliveryPersonnel/AssignedDeliveries"))
+  import("../pages/DeliveryPersonnel/AssignedDeliveries")
 );
-const Orders = lazy(() =>
-  wait(2000).then(() => import("../pages/PantryStaff/Orders"))
-);
-const Inventory = lazy(() =>
-  wait(2000).then(() => import("../pages/PantryStaff/Inventory"))
-);
-const PantryStaff = lazy(() =>
-  wait(2000).then(() => import("../pages/PantryStaff/PantryStaff"))
-);
+const Orders = lazy(() => import("../pages/PantryStaff/Orders"));
+const Inventory = lazy(() => import("../pages/PantryStaff/Inventory"));
+const PantryStaff = lazy(() => import("../pages/PantryStaff/PantryStaff"));
 const DeliveryStaff = lazy(() =>
-  wait(2000).then(() => import("../pages/DeliveryPersonnel/DeliveryStaff"))
+  import("../pages/DeliveryPersonnel/DeliveryStaff")
 );
-const DeliveryOrder = lazy(() =>
-  wait(2000).then(() => import("../pages/DeliveryPersonnel/DeliveryOrder"))
-);
-const SinglePatient = lazy(() =>
-  wait(2000).then(() => import("../components/patient/SinglePatient"))
-);
-const PantryAssign = lazy(() =>
-  wait(2000).then(() => import("../pages/HospitalManager/PantryAssign"))
-);
+const DeliveryOrder = lazy(() => import("../pages/DeliveryPersonnel/DeliveryOrder"));
+const SinglePatient = lazy(() => import("../components/patient/SinglePatient"));
+const PantryAssign = lazy(() => import("../pages/HospitalManager/PantryAssign"));
 const NewDeliveryStaff = lazy(() =>
-  wait(2000).then(() => import("../pages/DeliveryPersonnel/NewDeliveryStaff"))
+  import("../pages/DeliveryPersonnel/NewDeliveryStaff")
 );
 
 // Router configuration
