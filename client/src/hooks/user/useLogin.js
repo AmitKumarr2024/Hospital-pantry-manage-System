@@ -1,13 +1,10 @@
-import { useState } from "react";
-import toast from "react-hot-toast";
-
 const useLogin = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
 
   const login = async (email, password) => {
     setIsLoading(true);
-    setError(null); // Clear any previous errors
+    setError(null);
 
     try {
       const response = await fetch("/api/users/login", {
@@ -20,17 +17,19 @@ const useLogin = () => {
 
       const data = await response.json();
 
-      if (data.ok) {
-        toast.success(result.message || "Login Successful");
+      if (!response.ok) {
+        throw new Error(data.message || "Login failed");
       }
-      // Handle login success (e.g., store token or user data in localStorage)
+
+      // Store token and user info
       localStorage.setItem("token", data.data);
       localStorage.setItem("user", JSON.stringify(data.data));
 
+      toast.success(data.message || "Login Successful");
       return data;
     } catch (err) {
-      toast.error("Login error:", err.message);
       setError(err.message);
+      toast.error(err.message);
     } finally {
       setIsLoading(false);
     }
