@@ -43,7 +43,7 @@ const Navbar = () => {
       <p className="text-base">
         Role:{" "}
         <span className="text-2xl font-extrabold text-green-400">
-          {role || "Unknown"} {/* Display user role decoded from the token */}
+          {role || "Please click Logout to Re-Login"} {/* Display user role decoded from the token */}
         </span>
       </p>
       <div className="hidden md:block">
