@@ -43,8 +43,8 @@ const Login = () => {
 
   return (
     <div
-      className="w-full h-screen flex justify-center items-center bg-cover bg-center relative"
-      style={{ backgroundImage: "url('/your-background-image.jpg')" }}
+      className="w-full h-screen flex justify-center items-center bg-slate-700 bg-center relative"
+     
     >
       {/* Background Overlay */}
       <div className="absolute inset-0 bg-black bg-opacity-40 backdrop-blur-lg"></div>
